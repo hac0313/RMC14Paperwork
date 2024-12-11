@@ -1,0 +1,22 @@
+[color=#eb7a23]█[/color][color=#ffffff]░░░[/color][color=#eb7a23]█[/color][color=#ffffff]░[/color][color=#eb7a23]███[/color][color=#ffffff]░[/color][color=#3ede99]█[/color][color=#ffffff]░[/color][color=#3ede99]█[/color][color=#ffffff]░░[/color][color=#3ede99]█[/color][color=#ffffff]░[/color]    [bold]Special Services Department[/bold]
+[color=#eb7a23]█[/color][color=#ffffff]░[/color][color=#eb7a23]█[/color][color=#ffffff]░[/color][color=#eb7a23]█[/color][color=#ffffff]░[/color][color=#eb7a23]██[/color][color=#ffffff]░░░[/color][color=#3ede99]█[/color][color=#ffffff]░░[/color][color=#3ede99]███[/color]    [bold]Form:[/bold] 436
+[color=#ffffff]░[/color][color=#eb7a23]█[/color][color=#ffffff]░[/color][color=#eb7a23]█[/color][color=#ffffff]░░[/color][color=#eb7a23]███[/color][color=#ffffff]░░[/color][color=#3ede99]█[/color][color=#ffffff]░░[/color][color=#3ede99]█[/color][color=#ffffff]░[/color][color=#3ede99]█[/color]    [bold]POI Threat Assessment[/bold]
+─────────────────────────────────────────
+       [head=3][bold][color=#C50000]FOR WESTON-YAMADA COMPANY EYES ONLY[/bold][/color][/head]
+─────────────────────────────────────────
+[bold]Person's Full Name:[/bold] XXXX
+
+[bold]Person's Profession:[/bold] XXXX
+
+[bold]Assessment:[/bold] (Minimal, Low, Medium, High, Severe)
+
+[bold]Reasoning:[/bold] XXXX
+
+[bold]Recommendations:[/bold] XXXX
+─────────────────────────────────────────
+Special Services Department,
+[color=#AA8760]Corporate Liaison, (SHIP NAME), (FULL CHARACTER NAME)[/color]
+
+
+
+
