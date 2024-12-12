@@ -5,6 +5,9 @@ Huge thanks and credit to the below google drive for the vast majority of the cu
 https://drive.google.com/drive/folders/1S2zLdcXaKvhjdyaVNvTyXphUVpIP355h
 
 Other contributers include:
+
 crazy1112345 (John Slopper)
 
-sofipandarights (Sophia Castillo)
+SofiePandaRights (Sophia Castillo)
+
+Thereisabear
