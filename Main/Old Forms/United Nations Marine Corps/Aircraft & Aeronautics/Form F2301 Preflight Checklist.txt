@@ -1,0 +1,43 @@
+#F2301 Preflight Checklist
+[color=#5f698a]█    █ █▄ █[/color][head=2][bold]UNITED NATIONS MARINE CORPS[/bold][/head]
+[color=#5f698a]▀ ▄▀ █ ▀█[/color] [italic]UNS Almayer; 2nd Co, 2nd Bn, 4th Bde, 4th UNMC Div[/italic]
+
+            [bold]FORM F2301 PREFLIGHT CHECKLIST[/bold]
+[color=red][italic]_____________________________________________________________________[/italic][/color]
+
+Preflight Check Items:
+- [ ] External Inspection
+- [ ] Fuel Level Check
+- [ ] Hydraulic Systems Check
+- [ ] Electrical Systems Check
+- [ ] Navigation Systems Check
+- [ ] Communication Systems Check
+- [ ] Engine Start Procedure
+- [ ] Flight Controls Check
+- [ ] Weapon Systems Check
+- [ ] Parachute Equipment Check
+- [ ] Safety Equipment Check
+
+Additional Notes:
+
+[color=red][italic]_____________________________________________________________________[/italic][/color]
+
+[italic]I certify that I have completed all the preflight checks listed above, and that the aircraft is deemed airworthy in accordance with UNMC regulations and safety protocols. Any discrepancies found have been reported and addressed.[/italic]
+
+Signed,
+[color=#AA8760][italic]Pilot, (RANK), (FULL CHARACTER NAME)[/italic][/color]
+
+Signed,
+[color=#AA8760][italic]Crew Chief, (RANK), (FULL CHARACTER NAME)[/italic][/color]
+
+[color=red][italic]_____________________________________________________________________[/italic][/color]
+
+[italic]* This Preflight Checklist must be completed and signed before every flight operation. Failure to comply with preflight procedures may result in disciplinary action and grounding of the aircraft.
+
+* Any issues found during the preflight check must be reported to the maintenance crew and resolved before flight clearance is granted.
+
+* This document is to be kept on record for the duration of the flight and for five years thereafter for audit and review purposes.[/italic]
+
+[color=red][italic]_____________________________________________________________________[/italic][/color]
+
+[/color][bold][color=#E41B1B]USE OF THIS DOCUMENT INCONSISTENT WITH UCMJ REGULATIONS AND UNMC POLICY FLT-123 IS A VIOLATION OF FEDERAL LAW AND WILL RESULT IN PROSECUTION[/color][/bold]

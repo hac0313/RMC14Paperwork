@@ -1,0 +1,34 @@
+#P201 Interrogation Report
+[color=#5f698a]█    █ █▄ █[/color][head=2][bold]UNITED NATIONS MARINE CORPS[/bold][/head]
+[color=#5f698a]▀ ▄▀ █ ▀█[/color] [italic]UNS Almayer; 2nd Co, 2nd Bn, 4th Bde, 4th UNMC Div[/italic]
+
+                      [bold]FORM P201 - INTERROGATION REPORT[/bold]
+[color=red][italic]_____________________________________________________________________[/italic][/color]
+
+[italic]An audio recording or transcript of the interview must be attached via label to this report to be considered valid. In the event of a criminal prosecution, this report is considered as evidence.[/italic]
+
+[color=red][italic]_____________________________________________________________________[/italic][/color]
+
+Interview Conducted By:
+Rank:
+Unit/Affiliation:
+
+Interviewee's Name:
+Rank:
+Unit/Affiliation:
+
+Designation (mark with an X):
+[ ] Suspect
+[ ] Witness
+[ ] Other
+
+Other Personnel Present:
+
+Situation:
+Interview Details:
+Recording/Transcript Label Name:
+
+[color=red][italic]_____________________________________________________________________[/italic]
+
+[/color][bold][color=#E41B1B]USE OF THIS DOCUMENT INCONSISTENT WITH UCMJ REGULATIONS AND UNMC POLICY MIL-891 IS A VIOLATION OF FEDERAL LAW AND WILL RESULT IN PROSECUTION[/color]
+[/bold] 

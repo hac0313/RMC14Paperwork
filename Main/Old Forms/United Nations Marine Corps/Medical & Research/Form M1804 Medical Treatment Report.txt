@@ -1,0 +1,38 @@
+#M1804 Medical Treatment Report
+[color=#5f698a]█    █ █▄ █[/color][head=2][bold]UNITED NATIONS MARINE CORPS[/bold][/head]
+[color=#5f698a]▀ ▄▀ █ ▀█[/color] [italic]UNS Almayer; 2nd Co, 2nd Bn, 4th Bde, 4th UNMC Div[/italic]
+
+           [bold]FORM M1804 MEDICAL TREATMENT REPORT[/bold]
+[color=red][italic]_____________________________________________________________________[/italic][/color]
+
+[italic]This form is to be used by authorized medical personnel to document the medical condition, treatment, and recommendations for UNMC personnel. All entries must be accurate and complete in accordance with UNMC medical regulations.[/italic]
+
+[color=red][italic]_____________________________________________________________________[/italic][/color]
+
+Patient Name:
+Rank:
+Unit:
+
+Date of Examination:
+Location of Examination:
+
+Medical Condition/Diagnosis:
+
+Symptoms Presented:
+
+Treatment Administered:
+
+Medication Prescribed (if any):
+
+Follow-Up Actions/Recommendations:
+
+[color=red][italic]_____________________________________________________________________[/italic][/color]
+
+[italic]I certify that the above information is accurate and complete to the best of my knowledge. This report is issued in accordance with UNMC medical guidelines and is subject to review by authorized personnel. Any falsification or omission of information may result in disciplinary action.[/italic]
+
+Signed,
+[color=#AA8760][italic](ROLE), (RANK), (FULL CHARACTER NAME)[/italic][/color]
+
+[color=red][italic]_____________________________________________________________________[/italic][/color]
+
+[/color][bold][color=#E41B1B]USE OF THIS DOCUMENT INCONSISTENT WITH UNMC MEDICAL REGULATIONS AND POLICY MED-102 IS A VIOLATION OF FEDERAL LAW AND WILL RESULT IN PROSECUTION[/color][/bold]

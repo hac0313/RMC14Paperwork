@@ -1,0 +1,22 @@
+Form #R39028 Special Asset Requisition
+[color=#5f698a]█    █ █▄ █[/color][head=2][bold]UNITED NATIONS MARINE CORPS[/bold][/head]
+[color=#5f698a]▀ ▄▀ █ ▀█[/color] [italic]UNS Almayer; 2nd Co, 2nd Bn, 4th Bde, 4th UNMC Div[/italic]
+
+                [bold]FORM R39028 SPECIAL ASSET REQUISITION[/bold]
+[color=red][italic]_____________________________________________________________________[/italic][/color]
+[italic]This form is used to request unique supplies which the ASRS does not supply.[/italic]
+
+[color=red][italic]_____________________________________________________________________[/italic][/color]
+
+[bold]Special Asset Requisition[/bold]
+
+Here is where you would put a request along with the reason for it.
+
+[color=red][italic]_____________________________________________________________________[/italic][/color]
+
+Approved By:
+[color=#AA8760][italic]Department, Rank, Name[/italic][/color]
+
+[color=red][italic]_____________________________________________________________________[/italic][/color]
+
+[/color][bold][color=#E41B1B]USE OF THIS DOCUMENT INCONSISTENT WITH UNMC REGULATIONS AND POLICY REQ-204 IS A VIOLATION OF FEDERAL LAW AND WILL RESULT IN PROSECUTION[/color][/bold]

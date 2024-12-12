@@ -1,0 +1,30 @@
+#Form R39,179EM Request for Deconstruction Permit
+[color=#5f698a]█    █ █▄ █[/color][head=2][bold]UNITED NATIONS MARINE CORPS[/bold][/head]
+[color=#5f698a]▀ ▄▀ █ ▀█[/color] [italic]UNS Almayer; 2nd Co, 2nd Bn, 4th Bde, 4th UNMC Div[/italic]
+
+[bold]FORM R39,179EM REQUEST FOR DECONSTRUCTION PERMIT[/bold]
+[color=red][italic]_____________________________________________________________________[/italic][/color]
+
+[italic]This form is used to request the ability to deconstrcut Chairs, Rails and tables onboard the ship. This is to be issued only during times of dire lack of funding.[/italic]
+
+[color=red][italic]_____________________________________________________________________[/italic][/color]
+
+[bold]Reason for Deconstruction Permit Request[/bold]
+
+Here is where one would put the reason for such a request
+
+Requested By:
+[color=#AA8760][italic]Department, Rank, Name[/italic][/color]
+
+[color=red][italic]_____________________________________________________________________[/italic][/color]
+
+[italic]Authorization for Deconstruction Permit:
+
+I certify that the above Deconstrcution Permit is necessary for the operations of the unit. Any falsification or omission of information may result in disciplinary action.[/italic]
+
+Approved By:
+[color=#AA8760][italic]Department, Rank, Name[/italic][/color]
+
+[color=red][italic]_____________________________________________________________________[/italic][/color]
+
+[/color][bold][color=#E41B1B]USE OF THIS DOCUMENT INCONSISTENT WITH UNMC REGULATIONS AND POLICY REQ-204 IS A VIOLATION OF FEDERAL LAW AND WILL RESULT IN PROSECUTION[/color][/bold]
