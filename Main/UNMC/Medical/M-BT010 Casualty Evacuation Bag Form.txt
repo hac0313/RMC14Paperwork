@@ -1,9 +1,0 @@
-#Casualty Evacuation Form
-[color=#0d0080]|[/color]         [head=3][bold]CASUALTY EVACUATION FORM[/head][/bold]          [color=#0d0080]|[/color]
-[color=#0d0080]---------------------------------------------------------------------[/color]
-[bold]Identity of deceased:[/bold] Unknown
-[bold]Position of deceased:[/bold] Colonist
-           [bold]Cause of death:[/bold] XX-121
-     [bold]Medical evaluator:[/bold] NAMEHERE
-[italic]All resuscitation attempts of the deceased failed.[/italic]
-[italic]Deceased are to be transported to and processed aboard UNS Almayer.[/italic]

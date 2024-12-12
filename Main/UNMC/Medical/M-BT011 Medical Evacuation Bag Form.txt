@@ -1,9 +1,0 @@
-#Medical Evacuation Form
-[color=red]|[/color]         [head=3][bold]MEDICAL EVACUATION FORM[/head][/bold]          [color=red]|[/color]
-[color=red]---------------------------------------------------------------------[/color]
-[bold]Identity of patient:[/bold] Unknown
-[bold]Evacuation reason:[/bold] XX-121 Embryo
-  [bold]Stage of infection:[/bold] Unknown
- [bold]Medical evaluator:[/bold] NAMEHERE
-[italic]Patient requires immediate quarantine and surgery aboard UNS Almayer.[/italic]
-[italic]Some details may be omitted in urgent situations.[/italic]
