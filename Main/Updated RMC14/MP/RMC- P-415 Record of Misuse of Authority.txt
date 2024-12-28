@@ -1,0 +1,23 @@
+#P415 Record of Misuse of Authority
+[color=#5f698a]█    █ █▄ █ [/color][head=2]U[/head][bold]nited [head=2]N[/head]ations [head=2]M[/head]arine [head=2]C[/head]orps[/bold]    [color=#cb0000]FORM P-415[/color]
+[color=#5f698a]▀ ▄▀ █ ▀█[/color] [color=#AAAAAA][italic]UNS Almayer; 2nd Company "Falling Falcons"[/color][/italic] 
+[color=#383838]▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄[/color]
+[color=#cb0000]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+             [head=2]Record of Misuse of Authority[/head]
+[bold]Recording Officer's Name:[/bold] NAMEHERE
+
+[bold]Offender's Name:[/bold]NAMEHERE
+
+[bold]Situation:[/bold] TYPEHERE
+[bold]Description of MoA incident:[/bold]DESCRIBEHERE
+[bold]Actions Taken:[/bold] TYPEHERE
+[bold]Recommended Future Actions:[/bold] TYPEHERE
+[italic][bold][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
+[bold]Signed,[/bold]
+[color=#1b67a5][italic]RANKHERE NAMEHERE[/italic][/color]
+[bolditalic]ROLEHERE[/bolditalic]
+[italic][bold][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
+[italic]All signatories agree that the above is true. 
+This document shall be kept in records until such a time that the appropriate legal steps have been taken to investigate the above documented incident. 
+After such proceedings have occurred, the results of said proceedings will determine how long this record is to remain on file, dependent upon the outcome of the investigation.[/italic]
+[italic][color=#E41B1B]Use of this document inconsistent with UCMJ regulations and UNMC policy MIL-891 is a violation of federal law and will result in prosecution.[/color][/italic]
