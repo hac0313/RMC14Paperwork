@@ -1,0 +1,22 @@
+#P-205 Appeal Form
+[color=#5f698a]█    █ █▄ █ [/color][head=2]U[/head][bold]nited [head=2]N[/head]ations [head=2]M[/head]arine [head=2]C[/head]orps[/bold]    [color=#cb0000]Form P-605[/color]
+[color=#5f698a]▀ ▄▀ █ ▀█[/color] [color=#AAAAAA][italic]UNS Almayer; 2nd Company "Falling Falcons"[/color][/italic] 
+[color=#383838]▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄[/color]
+[color=#cb0000]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+                          [head=1]Criminal Appeal[/head]
+
+[bold]Name:[/bold] NAMEHERE
+[bold]Rank:[/bold] RANKHERE	
+[bold]Unit:[/bold] SQUADHERE
+[bold]Reason for Arrest:[/bold] CHARGES HERE
+[bold]Appellant Statement:[/bold]
+[color=#134975]I dispute and appeal the charges of INSERTCHARGES HERE based on WHYHERE EVIDENCEHERE PERSSUADEHERE CHARISMAHERE.[/color]
+[italic][bold][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
+[bold]Signed,[/bold]
+[color=#AA8760][italic]RANKHERE NAMEHERE[/italic][/color]
+[italic][bold][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
+[color=#AAAAAA][bullet/] [italic]If you disagree with the charges brought forward in relation to the crimes listed for you, you may appeal the decision(s) to the Chief MP, Commander or their designates.
+[bullet/] You must sign and return this form as soon as practicable for the charges that you are appealing. The appeal processor decides the final outcome(s). 
+[bullet/] A charge cannot be removed by appeal if the defendant is found guilty. 
+[bullet/] Appeal outcomes may maintain the current charge, modify the charge to a lower charge, reduce punishment for the charge up to the minimum or outright removal of the charge if found innocent.[/italic][/color]
+
