@@ -8,12 +8,12 @@ https://drive.google.com/drive/folders/1S2zLdcXaKvhjdyaVNvTyXphUVpIP355h
 
 Other contributers include:
 
-crazy1112345/John Slopper
+crazy1112345/John Slopper (creator of the Papercord)
 
-SofiePandaRights/Sophia Castillo
+SofiePandaRights/Sophia Castillo 
 
-Thereisabear (Formats all the things)
+Thereisabear (Formats all the things, forms redone and updated)
 
 Zaigan (also did a large number of the drive, huge thanks)
 
-Simon/Big Dave (Created the web editor, and is a large contributer)
+Simon/Big Dave (Creator of the web editor)
