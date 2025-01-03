@@ -1,8 +1,7 @@
-[bolditalic][color=green] Operation - NAMEHERE[/color][/bolditalic]
-[color=gold][italic]_____________________________________________________________________[/italic][/color]
+[head=2][color=green]Operation [italic]NAMEHERE[/color][/italic][/head]
+[color=gold][italic]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/italic][/color]
+Marines,
+Today we are deploying to [color=green]L-V624=Solaris Ridge=Shiva Snowball=Fiorina Science Annex=Trijent Dam=New Varadero=Kutjevo Refinery[/color]. A distress signal originated from this location, followed by nothing else. 
+You are deploying to figure out the cause of the distress signal.
 
-Marines, today we are deploying to [color=green](L-V624)(Solaris Ridge)(Shiva Snowball)(Fiorina Science Annex)(Trijent Dam)(New Varadero)(Kutjevo Refinery)[/color]. We have received a distress call from this location, followed by nothing else. You all know that means: it's time to go figure out what broke this time down there.
-
-Get geared up, I want all SLs and Department Chiefs in the CIC for a moment. The press are welcomed to observe the meeting but must stay silent.
-
-General Briefing will be announced after they are done in CIC.
+General Briefing will be in [color=goldenrod]10 minutes.[/color]
