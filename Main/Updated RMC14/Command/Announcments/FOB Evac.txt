@@ -1,0 +1,5 @@
+[head=1]Evacuation Order[/head]
+[color=#134975]▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄[/color]
+All groundside forces are to [color=goldenrod]fallback to the FOB for evacuation.[/color]
+Non-combat personnel are to board the Alamo immediately.
+The Alamo will hold groundside for as long as possible. 

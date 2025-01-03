@@ -1,8 +1,4 @@
-[bolditalic][color=green] Orbital Firing Warning[/color][/bolditalic]
-[color=gold][italic]_____________________________________________________________________[/italic][/color]
-
-[color=orchid]Orbital Cannon is firing!![/color]
-
-Stand clear of the blastzone, it is going to be at the following cords X, Y. Given by SQUAD
+[head=2][color=orchid]Orbital Firing Warning[/color][/head]
+Stand clear of the blastzone, landing approximate cords of X, Y relayed by SQUAD.
 
 [bold]PREPARE TO USE THIS TO YOUR ADVANTAGE[/bold]

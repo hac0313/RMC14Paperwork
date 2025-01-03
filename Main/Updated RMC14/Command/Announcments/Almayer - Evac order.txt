@@ -1,0 +1,14 @@
+[head=2]Evacuation Order[/head]
+[color=#134975]▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄[/color]
+UNS Almayer in [color=violet]Code DELTA[/color]. 
+All weapons authorised for every soul onboard.
+Collect any usable materials from Requisitions then proceed as follows:
+[color=teal]All non-combat personnel head towards Lifeboats east side of the ship on the second floor.[/color]
+[color=red][bold]Alpha,[/bold] fortify and hold the North East Pumps.[/color]
+[color=orange][bold]Bravo,[/bold] fortify and hold the Lifeboats vicinity.[/color]
+[color=darkorchid][bold]Charlie,[/bold] fortify and hold the North East Pumps.[/color]
+[color=royalblue][bold]Delta,[/bold] fortify and hold South East pumps.[/color]
+
+Once refuelling is complete evacuate via your nearest Evac Pod or Lifeboat.
+
+[bold]THIS IS NOT A DRILL. I REPEAT. THIS IS NOT A DRILL.[/bold]
