@@ -12,7 +12,7 @@ crazy1112345/John Slopper (creator of the Papercord)
 
 SofiePandaRights/Sophia Castillo (paperwork connoisseur)
 
-Thereisabear (Formats all the things & updates as required)
+Thereisabear (Formats and proofreads all the things; updates as required)
 
 Zaigan (also did a large number of the drive, huge thanks)
 
