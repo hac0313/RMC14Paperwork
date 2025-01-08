@@ -39,7 +39,7 @@ Dexalin, Carbon, Iron
 Improvaline, Dylo
 
 [bold][color=#cb0000]Meralyne[/bold][/color]:
-Carbon, water, Bicaridine
+Carbon, Water, Bicaridine
 
 [bold][color=#f39f27]Dermaline[/bold][/color]:
 Oxygen, Phosphorus, Kelotane
