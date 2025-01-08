@@ -1,31 +1,27 @@
-[color=#5f698a]█    █ █▄ █ [/color][head=2]U[/head][bold]nited [head=2]N[/head]ations [head=2]M[/head]arine [head=2]C[/head]orps[/bold]    [color=#cb0000]FORM R389[/color]
-[color=#5f698a]▀ ▄▀ █ ▀█[/color] [color=#AAAAAA][italic]UNS Almayer; 2nd Co, 2nd Bn, 4th Bde, 4th UNMC Div[/color][/italic] 
+[color=#5f698a]█    █ █▄ █ [/color][head=2]U[/head][bold]nited [head=2]N[/head]ations [head=2]M[/head]arine [head=2]C[/head]orps[/bold]       [bold]Form: [/bold][color=#cb0000]R389[/color]
+[color=#5f698a]▀ ▄▀ █ ▀█[/color] [color=#AAAAAA][italic]UNS Almayer; 2nd Company "Falling Falcons"[/color][/italic] 
 [color=#b18644]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
-                           [head=2][color=#1b67a5]Requisitions Request[/color][/head]
+               [head=1][color=#1b67a5]Requisitions Request[/color][/head]
 
 [bold]Information of Requester:[/bold]
-Name:
-Rank:
-Position:
+[bold]Name: [/bold]NAMEHERE
+[bold]Rank: [/bold]RANKHERE
+[bold]Position: [/bold]ROLEHERE
 
 [bold]Requested item(s)[/bold]:
-[bullet/]
 [bullet/]
 [bullet/]
 
 [bold]Reason for request:[/bold]
 [italic]Write Here[/italic]
 
-[color=#b18644]________________________________________________________________________[/color]
-
-[italic]I understand that all requisitions equipment is to be used in a responsible and necessary manner. I certify that all requested equipment is essential to completing the operation. I understand failure to return reusable equipment after the operation concludes is a breach of marine law and shall result in disciplinary action.[/italic]
-
-[bold]Requested by[/bold]
+[color=#b18644]_________________________________________________________________[/color]
+[italic][bullet/]I understand that all requisitioned equipment is to be used in a responsible and necessary manner. 
+[bullet/]I certify that all requested equipment is essential to  the operation. 
+[bold]Requested by,[/bold]
        [italic]RANK NAME, ROLE[/italic]
 
-[bold]Approved by[/bold]
+[bold]Approved by,[/bold]
        [italic]RANK NAME, ROLE[/italic]
-
-[italic][bold][color=#134975]________________________________________________________________________[/color][/bold][/italic]
-
+[italic][bold][color=#134975]_________________________________________________________________[/color][/bold][/italic]
 [italic][color=#E41B1B]Use of this document inconsistent with UCMJ regulations and UNMC policy MIL-891 is a violation of federal law and will result in prosecution.[/color][/italic]
