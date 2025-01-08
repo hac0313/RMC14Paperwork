@@ -1,5 +1,6 @@
 # Big Dave's Chemistry Cheat Sheet
-[color=Green][head=2] Chemistry Cheat Sheet:[/head][/color]
+[color=Green][head=1]Chemistry Cheat Sheet[/head][/color]
+[bolditalic]authored by Dave 'Big Dave' Small[/bolditalic]
 [color=DarkGreen]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
                                  [head=2]- Drug Basics -[/head]
 
