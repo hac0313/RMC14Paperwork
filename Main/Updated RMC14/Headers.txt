@@ -1,48 +1,57 @@
-Weston-Yamada Forms/Reports ======
-[color=#383838]▄[/color][color=#ffffff]░░░[/color][color=#383838]▄[/color]                                                                                 [bold]Form:[/bold] [color=#ff0000]435[/color]
+Weston-Yamada Forms/Reports <--delete when pasting
+[color=#383838]▄[/color][color=#ffffff]░░░[/color][color=#383838]▄[/color]                                                                               [bold]Form: [/bold][color=#ff0000]435[/color]
 [color=#eb7a23]█[/color][color=#383838]▀[/color][color=#eb7a23]▄[/color][color=#383838]▀[/color][color=#eb7a23]█[/color]  [head=1]Weston-Yamada[/head]   
-[color=#ffffff]░[/color][color=#eb7a23]█[/color][color=#383838]░[/color][color=#eb7a23]█[/color]      [head=3]Liaison Operations Report[/head]
-[color=#383838]▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄[/color]
-[color=#eb7a23]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+[color=#ffffff]░[/color][color=#eb7a23]█[/color][color=#383838]░[/color][color=#eb7a23]█[/color]      [head=3]Document Title Here[/head]
+[color=#383838]▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄[/color]
+[color=#eb7a23]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
 
-Weston-Yamada Company Slogan ======
-[color=#383838]▄[/color][color=#ffffff]░░░[/color][color=#383838]▄[/color]                                                                           [bold]Form:[/bold] [color=#ff0000]CL-563[/color] 
+Weston-Yamada Company Slogan <--delete when pasting
+[color=#383838]▄[/color][color=#ffffff]░░░[/color][color=#383838]▄[/color]                                                                          [bold]Form: [/bold][color=#ff0000]CL-563[/color] 
 [color=#eb7a23]█[/color][color=#383838]▀[/color][color=#eb7a23]▄[/color][color=#383838]▀[/color][color=#eb7a23]█[/color]  [head=1]Weston-Yamada[/head]   
 [color=#ffffff]░[/color][color=#eb7a23]█[/color][color=#383838]░[/color][color=#eb7a23]█[/color]     [head=3][italic]Your future in our hands[/italic][/head]
 [color=#383838]▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄[/color]
 [color=#eb7a23]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
 
-UNMC Almayer Generic======
-[color=#5f698a]█    █ █▄ █ [/color][head=2]U[/head][bold]nited [head=2]N[/head]ations [head=2]M[/head]arine [head=2]C[/head]orps[/bold]    [color=#cb0000]FORM MXXX[/color]
-[color=#5f698a]▀ ▄▀ █ ▀█[/color] [color=#AAAAAA][italic]UNS Almayer; 2nd Co, 2nd Bn, 4th Bde, 4th UNMC Div[/color][/italic] 
-[color=#6e6e6e]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+UNMC Almayer Generic <--delete when pasting
+[color=#5f698a]█    █ █▄ █ [/color][head=2]U[/head][bold]nited [head=2]N[/head]ations [head=2]M[/head]arine [head=2]C[/head]orps[/bold]    [bold]Form: [/bold][color=#ff0000]XXX[/color]
+[color=#5f698a]▀ ▄▀ █ ▀█[/color] [color=#AAAAAA][italic]UNS Almayer; 2nd Company "Falling Falcons"[/color][/italic] 
+[color=#6e6e6e]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
 [head=1]Document Title Here[/head]
 
-UNMC MP Warants ======
-[color=#5f698a]█    █ █▄ █ [/color][head=2]U[/head][bold]nited [head=2]N[/head]ations [head=2]M[/head]arine [head=2]C[/head]orps[/bold]  [color=#cb0000]Warrant №XXX[/color]
-[color=#5f698a]▀ ▄▀ █ ▀█[/color] [color=#AAAAAA][italic]UNS Almayer; 2nd Co, 2nd Bn, 4th Bde, 4th UNMC Div[/color][/italic] 
-[color=#cb0000]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+UNMC MP <--delete when pasting
+[color=#5f698a]█    █ █▄ █ [/color][head=2]U[/head][bold]nited [head=2]N[/head]ations [head=2]M[/head]arine [head=2]C[/head]orps[/bold]   [bold]Form: [/bold][color=#ff0000]P-XXX[/color]
+[color=#5f698a]▀ ▄▀ █ ▀█[/color] [color=#AAAAAA][italic]UNS Almayer; 2nd Company "Falling Falcons"[/color][/italic] 
+[color=#cb0000]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+[head=1][color=#ff0000]Document Title Here[/color][/head]
 
-UNMC Medical ======
-[color=#5f698a]█    █ █▄ █ [/color][head=2]U[/head][bold]nited [head=2]N[/head]ations [head=2]M[/head]arine [head=2]C[/head]orps[/bold]    [color=#cb0000]FORM M1XXX[/color]
-[color=#5f698a]▀ ▄▀ █ ▀█[/color] [color=#AAAAAA][italic]UNS Almayer; 2nd Co, 2nd Bn, 4th Bde, 4th UNMC Div[/color][/italic] 
-[color=#134975]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
-[head=1][color=#5B97BC]Document Title[/color][/head]
+UNMC MP Warants <--delete when pasting
+[color=#5f698a]█    █ █▄ █ [/color][head=2]U[/head][bold]nited [head=2]N[/head]ations [head=2]M[/head]arine [head=2]C[/head]orps[/bold]  [bold]Warrant №[/bold][color=#ff0000]XXX[/color]
+[color=#5f698a]▀ ▄▀ █ ▀█[/color] [color=#AAAAAA][italic]UNS Almayer; 2nd Company "Falling Falcons"[/color][/italic] 
+[color=#cb0000]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
 
-UNMC Engi/Pilots
-[color=#5f698a]█    █ █▄ █ [/color][head=2]U[/head][bold]nited [head=2]N[/head]ations [head=2]M[/head]arine [head=2]C[/head]orps[/bold]    [color=#cb0000]FORM: F4301[/color]
-[color=#5f698a]▀ ▄▀ █ ▀█[/color] [color=#AAAAAA][italic]UNS Almayer; 2nd Co, 2nd Bn, 4th Bde, 4th UNMC Div[/color][/italic] 
-[color=#f39f27]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
-[head=1][color=#1b67a5]Preflight Checklist[/color][/head]
+UNMC Medical <--delete when pasting
+[color=#5f698a]█    █ █▄ █ [/color][head=2]U[/head][bold]nited [head=2]N[/head]ations [head=2]M[/head]arine [head=2]C[/head]orps[/bold]    [bold]Form: [/bold][color=#ff0000]M1XXX[/color]
+[color=#5f698a]▀ ▄▀ █ ▀█[/color] [color=#AAAAAA][italic]UNS Almayer; 2nd Company "Falling Falcons"[/color][/italic] 
+[color=#134975]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+[head=1][color=#5B97BC]Document Title Here[/color][/head]
 
-UNMC Req
-[color=#5f698a]█    █ █▄ █ [/color][head=2]U[/head][bold]nited [head=2]N[/head]ations [head=2]M[/head]arine [head=2]C[/head]orps[/bold]    [color=#cb0000]FORM: R3401[/color]
-[color=#5f698a]▀ ▄▀ █ ▀█[/color] [color=#AAAAAA][italic]UNS Almayer; 2nd Co, 2nd Bn, 4th Bde, 4th UNMC Div[/color][/italic] 
-[color=#b18644]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
-[head=1][color=#1b67a5]Document Title[/color][/head]
+UNMC Engi/Pilots <--delete when pasting
+[color=#5f698a]█    █ █▄ █ [/color][head=2]U[/head][bold]nited [head=2]N[/head]ations [head=2]M[/head]arine [head=2]C[/head]orps[/bold]    [bold]Form: [/bold][color=#ff0000]F4301[/color]
+[color=#5f698a]▀ ▄▀ █ ▀█[/color] [color=#AAAAAA][italic]UNS Almayer; 2nd Company "Falling Falcons"[/color][/italic] 
+[color=#f39f27]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+[head=1][color=#1b67a5]Document Title Here[/color][/head]
+
+UNMC Req <--delete when pasting
+[color=#5f698a]█    █ █▄ █ [/color][head=2]U[/head][bold]nited [head=2]N[/head]ations [head=2]M[/head]arine [head=2]C[/head]orps[/bold]    [bold]Form: [/bold][color=#ff0000]R3401[/color]
+[color=#5f698a]▀ ▄▀ █ ▀█[/color] [color=#AAAAAA][italic]UNS Almayer; 2nd Company "Falling Falcons"[/color][/italic] 
+[color=#b18644]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+[head=1][color=#1b67a5]Document Title Here[/color][/head]
 
 
 ===FOOTER====
+[color=#AAAAAA]===================================================[/color]
 [italic][color=#E41B1B]Use of this document inconsistent with UCMJ regulations and UNMC policy MIL-891 is a violation of federal law and will result in prosecution.[/color][/italic]
+
+[italic][bold][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
 
 
