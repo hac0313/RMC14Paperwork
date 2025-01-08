@@ -11,7 +11,7 @@ Deploying personnel should keep a copy of this document on their persons at all 
 [italic][bold][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
 [italic][bullet/]I understand upon deployment to the forward operating base, all laws and stipulations within the SOP and Marine Law are still in effect, and shall not be broken. 
 [bullet/]I understand that failure to stay within the boundary designated as the forward operating base, failure to respond to communication attempts from UNS Almayer or failure to follow orders by command staff will result in charges brought against me.
-[bullet/]I understand this deployment can be canceled at the Chief Engineer's, Auxilary Support Officer's, or Commanding Officer's discretion
+[bullet/]I understand this deployment can be canceled at the Chief Engineer's, Auxilary Support Officer's, or Commanding Officer's discretion.
 [bullet/]I understand that in the event of a major attack on the forward operating base, I must return to the Alamyer as soon as possible.[/italic]
 
 [bold]Signed,[/bold]
