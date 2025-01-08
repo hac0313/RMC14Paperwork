@@ -25,7 +25,7 @@
 [bolditalic]Epinephrine:[/bolditalic] Causes defib to heal 20 brute, burn and toxin: OD 10.5U
 [bold]Ethylredoxrazine:[/bold] Removes drunkness: OD 30U
 [bolditalic]Imidazoline:[/bolditalic] Treats eye damage, 1u is enough: OD 30U
-[bold]Tricordrazine:[/bold] Heals Brute, Burn and Toxin, don't mix with Dylo: 30U OD
+[bold]Tricordrazine:[/bold] Heals Brute, Burn and Toxin, don't mix with Dylo: OD 30U
 
 [color=DarkGreen]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
                   [head=2]-Chems to be synthesised-[/head]
