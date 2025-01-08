@@ -3,12 +3,15 @@
 [color=#6e6e6e]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color] 
           [color=#cb0000][head=2]Nuclear Authorization Request[/head][/color]
 
-[italic]The following correspondence is addressed to the office of Deputy Commandant Sinclair, UNS Eminent Domain (SCC-102). The contents of this correspondence are [color=red]URGENT[/color][/italic].
+[italic]The following correspondence is addressed to the office of Deputy Commandant Sinclair, UNS Eminent Domain (SCC-102). The contents of this correspondence are [color=#cb0000]URGENT[/color][/italic].
 
 ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-[bold]Reason for request:[/bold]
+[italic]I, RANK NAME, (Acting) Commanding Officer of the UNS Alamyer, formally request authorization for use of nuclear based weaponry on COLONY for the following reason(s)[/italic]
 
-[italic]I, RANK NAME, (Acting) Commanding Officer of the UNS Alamyer, certify nuclear action is required to prevent an immense threat to the UN or her citizens. I understand that in the event of a broken arrow incident, or any other incident involving the misuse or loss of nuclear based weaponry, I will receive immense disciplinary action. [/italic] 
+[bold]Reason for request:[/bold] [italic]WRITE HERE[/italic]
+
+[color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
+[italic]I certify nuclear action is required to prevent an immense threat to the UN or her citizens. I understand that in the event of a broken arrow incident, or any other incident involving the misuse or loss of nuclear based weaponry, I will receive immense disciplinary action. [/italic] 
 
 Signed,
 [italic]RANK NAME,[/italic]
