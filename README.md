@@ -10,9 +10,9 @@ Other contributers include:
 
 crazy1112345/John Slopper (creator of the Papercord)
 
-SofiePandaRights/Sophia Castillo 
+SofiePandaRights/Sophia Castillo (paperwork connoisseur)
 
-Thereisabear (Formats all the things, forms redone and updated)
+Thereisabear (Formats all the things & updates as required)
 
 Zaigan (also did a large number of the drive, huge thanks)
 
