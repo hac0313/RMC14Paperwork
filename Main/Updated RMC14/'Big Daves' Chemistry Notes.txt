@@ -77,6 +77,6 @@ Final dosage per pill: 7.5 Bic and 7.5 Mera
 
 [bold]5 Bottles of [color=#1b67a5]Iron/Dex+[/bold][/color] - 1192 iron / 8 dex+ - Total in buffer 1200 - Dose 15u x 16 pills
 
-[bold]5 Bottles of [color=#f39f27]KD[/color][/bold] - 600 Kelo / 600 derma - Total In buffer 1200 - Dose 15u x 16 pills
+[bold]5 Bottles of [color=#f39f27]KD[/color][/bold] - 600 Kelo / 600 Derma - Total In buffer 1200 - Dose 15u x 16 pills
 
-[bold]5 Bottles of [color=#cb0000]MB[/color][/bold] - 600 Mera / 600 Derma - Total In buffer 1200 - Dose 15u x 16 pills
+[bold]5 Bottles of [color=#cb0000]MB[/color][/bold] - 600 Mera / 600 Bic - Total In buffer 1200 - Dose 15u x 16 pills
