@@ -1,4 +1,0 @@
-- Form to recognize a exemplary enlisted personnel for high achievement
-- General personnel FOB deployment form (one is made for MP already)
-- Equipment malfunction form 
-- make standardized logos/headings for each department (rn theres just one for the entire UNMC, ideally theres one for req, one for med, etc)
