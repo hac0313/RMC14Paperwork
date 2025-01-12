@@ -1,9 +1,9 @@
 #The Stellar Accords handout
-[color=#5f698a]█    █ █▄ █[/color][head=2][bold]UNITED NATIONS MARINE CORPS[/bold][/head]
-[color=#5f698a]▀ ▄▀ █ ▀█[/color] [italic]UNS Almayer; 2nd Co, 2nd Bn, 4th Bde, 4th UNMC Div[/italic]
+[color=#5f698a]█[/color][color=#ffffff]░░[/color][color=#5f698a]█ [color=#AAAAAA]█▄[/color] █[/color] [head=3]U[/head][bold]nited [head=3]N[/head]ations [head=3]M[/head]arine [head=3]C[/head]orps[/bold]      
+[color=#5f698a]▀▄▄▀ █[/color] [color=#AAAAAA]▀█[/color] [color=#AAAAAA][italic]UNS Almayer; 2nd Company "Falling Falcons"[/color][/italic]
 
-                [head=1][bold]THE STELLAR ACCORDS[/bold][/head]
-[color=red][italic]_____________________________________________________________________[/italic][/color]
+            [head=1][bold]THE STELLAR ACCORDS[/bold][/head]
+[color=#8c0000]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
 
 [bold]Protection of Civilians:[/bold]
 [bullet/]Bans attacks on non-combatants and essential infrastructure (e.g. hospitals, schools).

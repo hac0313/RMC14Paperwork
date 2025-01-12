@@ -1,0 +1,11 @@
+[color=#dfc189][head=1]Casualty Report[/head][/color]
+[color=#ff0000][bold]Alpha[/bold][/color]
+[bullet/]5
+[color=#f39f27][bold]Bravo[/color][/bold]
+[bullet/]7
+[color=#c96dbf][bold]Charlie[/color][/bold]
+[bullet/]8
+[color=#1b67a5][bold]Delta[/color][/bold]
+[bullet/]12
+[color=#dfc189][head=2]Total casualties:[/color] [color=#ff0000]#[/color][/head]
+[color=#dfc189][head=2]Deployed Marines:[/color] [color=#9fed58]#[/color][/head]
