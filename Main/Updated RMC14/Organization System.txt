@@ -19,7 +19,7 @@ Secondary Prefixes:
 M-BT = Medical - Bag Tag (used to put on body/stasis bags)
 AX-F, AX-I = Aux flight department, Aux Intel Department
 S-A, S-B, S-C, S-D = Alpha, bravo, charlie squad etc.
-X-O, X-E = Maintenance tech and Ordinance tech
+X-O, X-E = Ordinance tech and Maintenance tech  
 
 
 Any additional prefixes are fine, if they are not super self explanatory add them here.
