@@ -9,7 +9,7 @@ R = Requisitions
 CL/WY = Corporate Liaison/Weston-Yamada (either or)
 AX = Auxiliary
 S = Squad
-X = Engineering
+E = Engineering
 
 
 Secondary Prefixes are used for further specification within a department, IE bag tags for medical, denoting intel vs JTAC for aux, and OT vs MT for engineering.
