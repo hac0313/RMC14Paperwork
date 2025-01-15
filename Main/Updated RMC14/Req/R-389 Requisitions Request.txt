@@ -25,3 +25,4 @@
        [italic]RANK NAME, ROLE[/italic]
 [italic][bold][color=#134975]_________________________________________________________________[/color][/bold][/italic]
 [italic][color=#E41B1B]Use of this document inconsistent with UCMJ regulations and UNMC policy MIL-891 is a violation of federal law and will result in prosecution.[/color][/italic]
+
