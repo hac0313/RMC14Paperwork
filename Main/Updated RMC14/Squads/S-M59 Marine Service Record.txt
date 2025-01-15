@@ -1,4 +1,4 @@
-[color=#5f698a]█[/color][color=#ffffff]░░[/color][color=#5f698a]█ [color=#AAAAAA]█▄[/color] █[/color] [head=3]U[/head][bold]nited [head=3]N[/head]ations [head=3]M[/head]arine [head=3]C[/head]orps[/bold]      [bold]Form:  [/bold][color=#ff0000]S-M59[/color]
+[color=#5f698a]█[/color][color=#ffffff]░░[/color][color=#5f698a]█ [color=#AAAAAA]█▄[/color] █[/color] [head=3]U[/head][bold]nited [head=3]N[/head]ations [head=3]M[/head]arine [head=3]C[/head]orps[/bold]       [bold]Form:  [/bold][color=#ff0000]S-M59[/color]
 [color=#5f698a]▀▄▄▀ █[/color] [color=#AAAAAA]▀█[/color] [color=#AAAAAA][italic]UNS Almayer; 2nd Company "Falling Falcons"[/color][/italic]
 [color=#6e6e6e]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
 [head=1]Marine Service Record[/head]
@@ -51,3 +51,4 @@
 [color=#aaaaaa]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
 [bold]Previous Workplace:[/bold]
 Words and words and words.
+
