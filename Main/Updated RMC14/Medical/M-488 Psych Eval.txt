@@ -13,9 +13,9 @@
 
 [head=3]Evaluation[/head]
 [bold]Reason for Evaluation:[/bold]WRITEHERE
-[bold]Concerning Behavior[/bold]
+[bold]Concerning Behavior:[/bold]
 [italic]WRITEHERE[/italic]
-[bold]Additional Notes[/bold]
+[bold]Additional Notes:[/bold]
 [italic]WRITEHERE[/italic]
 
 [bold]Result of Evaluation[/bold]
