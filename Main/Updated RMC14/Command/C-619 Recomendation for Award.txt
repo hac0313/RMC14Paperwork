@@ -1,5 +1,6 @@
-[color=#5f698a]█[/color][color=#ffffff]░░[/color][color=#5f698a]█ [color=#134975]█▄[/color] █[/color] [head=3]U[/head][bold]nited [head=3]N[/head]ations [head=3]M[/head]arine [head=3]C[/head]orps[/bold]      [bold]Form:  [/bold][color=#ff0000]C-619[/color]
-[color=#5f698a]▀▄▄▀ █[/color] [color=#134975]▀█[/color] [color=#AAAAAA][italic]UNS Almayer; 2nd Company "Falling Falcons"[/color][/italic]
+[color=#1b67a5]█[/color][color=#ffffff]░░[/color][color=#383838]█ [color=#1b67a5 ]█▄[/color] █[/color] [head=3]U[/head][bold]nited [head=3]N[/head]ations [head=3]M[/head]arine [head=3]C[/head]orps[/bold]      [bold]Form:  [/bold][color=#ff0000]C-619[/color]
+[color=#383838]▀▄▄[color=#1b67a5 ]▀[/color] █[/color] [color=#1b67a5 ]▀█[/color] [color=#AAAAAA][italic]UNS Almayer; 2nd Company "Falling Falcons"[/color][/italic]
+[color=#383838]▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄[/color]
 [color=#1b67a5]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
  [head=1][color=#f39f27]Recommendation for Award[/color][/head]
 [color=#1b67a5]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
@@ -8,8 +9,8 @@
 [bold]Name:[/bold]
 [bold]Rank:[/bold]
 [bold]Reason:[/bold]
-[bullet/]
-WRITE THEIR HEROIC DEEDS HERE
+[bullet/]WRITE THEIR HEROIC DEEDS HERE
+
 [italic][bold][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
 [bold]Award/s for which recommended:[/bold]
 <      > [color=Plum]Bronze Heart Medal[/color]
