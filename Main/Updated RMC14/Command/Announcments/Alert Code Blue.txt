@@ -1,0 +1,6 @@
+[head=3][color=#A9CFF2]UNS Almayer Alert Code[/color] [color=#1b67a5]Blue[/head][/color]
+[color=burlywood]▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄[/color]
+[color=#A9CFF2][bullet/]All crew personnel are authorized sidearms and armor for their safety.
+[bullet/]MPs are authorized to carry lethal weapons to subdue any external threats.
+[bullet/]Riot gear is authorized to be employed if required.[/color]
+[color=#005F8F]

@@ -1,7 +1,8 @@
-[head=2][color=green]Operation [italic]NAMEHERE[/color][/italic][/head]
-[color=gold][italic]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/italic][/color]
-Marines,
-Today we are deploying to [color=green]L-V624=Solaris Ridge=Shiva Snowball=Fiorina Science Annex=Trijent Dam=New Varadero=Kutjevo Refinery[/color]. A distress signal originated from this location, followed by nothing else. 
-You are deploying to figure out the cause of the distress signal.
+[head=1][color=#FFA500]Rise and Shine Marines![/head][/color]
+[color=#005F8F]▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄[/color]
 
-General Briefing will be in [color=goldenrod]10 minutes.[/color]
+[color=#C0C0C0]We have received a distress beacon from [color=#FF6347]locationHERE[/color].
+All stations, prepare the Almayer for geostationary orbital support. 
+
+Marines, gear up and report to the [color=#FF6347]locationHERE[/color] in [color=#FF6347]timeHERE[/color] for mission details.[/color][color=#A9CFF2]
+

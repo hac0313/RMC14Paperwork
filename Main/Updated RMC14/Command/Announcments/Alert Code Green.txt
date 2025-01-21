@@ -1,0 +1,12 @@
+[head=3][color=#A9CFF2]UNS Almayer Alert Code [color=#81ee90]Green[/head][/color]
+[color=burlywood]▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄[/color]
+
+[color=#C0C0C0]Firearm carry restrictions are now in effect.
+[bullet/]Civilians and non-combat personnel are to secure any issued firearms in personal quarters or armories.
+[bullet/]Commissioned officers are permitted a sidearm whilst onboard.
+[bullet/]Personnel issued weapons from their respective vendors may retain them.
+[bullet/]Deploying combat personnel are permitted to carry all standard issue weapons.
+[bullet/]Deploying non-combat personnel may carry a sidearm.
+[bullet/]Onboard MPs are authorized to carry Non-Lethals and sidearms, excluding Riot Equipment.
+[bullet/]Deploying MPs are authorized to carry all standard issue weapons.
+[color=#005F8F]

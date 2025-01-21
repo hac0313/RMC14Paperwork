@@ -1,0 +1,9 @@
+[head=3][color=#A9CFF2]UNS Almayer Alert Code[/color] [color=#ff0000]Red[/head][/color]
+[color=burlywood]▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄[/color]
+
+                 [head=2][color=#cb0000]ALERT!  ALERT!  ALERT![/color][/head]
+There is a significant threat incoming to the safety of the Almayer.
+Weapon restrictions are lifted. 
+[bolditalic]All hands, prepare for battle.[/bolditalic]
+
+[color=#005F8F]

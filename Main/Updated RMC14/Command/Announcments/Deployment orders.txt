@@ -1,8 +1,9 @@
-[bold]Deployment Orders[/bold]
-[color=gold][italic]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/italic][/color]
+[head=2][color=goldenrod]Deployment Orders[/head][/color]
+[color=#A9CFF2][italic]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/italic][/color]
 [color=red][bold]Alpha-[/bold] head towards [/color]
 [color=orange][bold]Bravo-[/bold] Establish, secure and maintain the FOB.[/color]
 [color=royalblue][bold]Delta-[/bold] Restore power and then move towards[/color]
 [color=darkorchid][bold]Charlie-[/bold] secure communications[/color]
 
-Primary Landing Zone is [color=teal]LZ1 LZ2.[/color]
+Primary Landing Zone is [color=teal]LZ HERE[/color]
+[color=goldenrod]
