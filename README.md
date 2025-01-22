@@ -17,3 +17,5 @@ Thereisabear (Formats and proofreads all the things; updates as required)
 Zaigan (also did a large number of the drive, huge thanks)
 
 Simon/Big Dave (Creator of the web editor)
+
+SO MANY MORE in the papercord discord, too many to list. Thank you to everyone!!
