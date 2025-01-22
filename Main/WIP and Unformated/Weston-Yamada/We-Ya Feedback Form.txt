@@ -1,0 +1,44 @@
+[color=#d16d1f]█[/color][color=#eb7a23]▌[color=#FFFFFF]░░░░[/color]▄███▌[color=#25b266]▌▄[/color][color=#1c8a4e]█▀[/color]▄██████████[/color]    [bold]Special Services[/bold]
+[color=#d16d1f]█[/color][color=#eb7a23]▌[color=#FFFFFF]░░[/color]▄██[color=#d16d1f]██[/color]█▌[color=#1c8a4e]█▀[/color]▄██[color=#d16d1f]█▀[/color][/color]                          [bold]Department[/bold]
+[color=#d16d1f]█[/color][color=#eb7a23]▌▄██[color=#d16d1f]█▀[/color][color=#1c8a4e]▄[/color][color=#d16d1f]▐[/color]█▌▄██[color=#d16d1f]█▀[/color][color=#EEEE]▄[/color]▐████████[/color]    [bold]Form:[/bold]2211
+[color=#d16d1f]█[/color][color=#eb7a23]██[/color][color=#d16d1f]█▀[/color][color=#25b266]▄█[/color][color=#1c8a4e]█[/color][color=#d16d1f]▐[/color][color=#eb7a23]███[/color][color=#d16d1f]█▀[/color][color=#EEEEEE]▄█[/color][color=#DDDDDD]█[/color]                             [bold]We-Ya Feedback[/bold]
+[color=#d16d1f]██▀[/color][color=#25b266]▄█[/color][color=#1c8a4e]█▀[/color][color=#FFFFFF]░[/color][color=#d16d1f]▐██▀[/color][color=#EEEEEE]▄█[/color][color=#DDDDDD]█▀▐[/color][color=#eb7a23]▐████████[/color]    [bold]Form[/bold]
+[color=#eb7a23][italic]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/italic][/color]
+
+[head=2]Form Recipient: [bolditalic][color=#25b266](INSERT NAME HERE)[/color][/bolditalic][/head]
+
+[head=3] Section 1: Equipment [/head]
+I found the equipment produced by the Weston-Yamada Corporation to be:
+[bullet] Excellent[color=red] ( )[/color]
+[bullet] Satisfactory [color=red]( )[/color]
+[bullet] Poor [color=red]( )[/color]
+
+     [italic] Reasoning: [/italic][color=#1b67a5] ___________________.[/color]
+
+[color=#eb7a23][italic]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/italic][/color]
+
+[head=3] Section 2: Liaison Performance [/head]
+I found the actions and services of the shipside Corporate Liaison, [bolditalic][color=#25b266](INSERT NAME HERE)[/color][/bolditalic] to be:
+[bullet] Excellent[color=red] ( )[/color]
+[bullet] Satisfactory [color=red]( )[/color]
+[bullet] Poor [color=red]( )[/color]
+
+     [italic] Reasoning: [/italic][color=#1b67a5] ___________________[/color]
+
+[color=#eb7a23][italic]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/italic][/color]
+
+[head=3] Section 3: Corporate Behaviour [/head]
+I found the behaviour and conduct of the Weston-Yamada Corporation to be:
+[bullet] Excellent[color=red] ( )[/color]
+[bullet] Satisfactory [color=red]( )[/color]
+[bullet] Poor [color=red]( )[/color]
+
+     [italic]Reasoning:[/italic][color=#1b67a5] ___________________[/color]
+
+[color=#eb7a23][italic]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/italic][/color]
+[italic] This form is intended to give proper feedback on the performance of Weston-Yamada equipment and personnel. Any forms deemed to be irrelevant, false, or lacking professionalism will be ignored. In signing this form, I accept that my feedback may be utilized in order to improve Weston-Yamada goods and services. I am not liable to be sued or discriminated against depending on my answers to this questionnaire. This form is not viable for usage in any court of law, no matter the circumstances.[/italic]
+
+[color=#eb7a23][italic]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/italic][/color]
+
+Weston-Yamada Special Services Department,
+[color=#25b266]Corporate Liaison, UNS Almayer, (INSERT NAME HERE)[/color]

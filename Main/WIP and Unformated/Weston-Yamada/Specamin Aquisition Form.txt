@@ -1,0 +1,29 @@
+[color=#d16d1f]█[/color][color=#eb7a23]▌[color=#FFFFFF]░░░░[/color]▄███▌[color=#25b266]▌▄[/color][color=#1c8a4e]█▀[/color]▄██████████[/color]    [bold]Special Services[/bold]
+[color=#d16d1f]█[/color][color=#eb7a23]▌[color=#FFFFFF]░░[/color]▄██[color=#d16d1f]██[/color]█▌[color=#1c8a4e]█▀[/color]▄██[color=#d16d1f]█▀[/color][/color]                          [bold]Department[/bold]
+[color=#d16d1f]█[/color][color=#eb7a23]▌▄██[color=#d16d1f]█▀[/color][color=#1c8a4e]▄[/color][color=#d16d1f]▐[/color]█▌▄██[color=#d16d1f]█▀[/color][color=#EEEE]▄[/color]▐████████[/color]    [bold]Form:[/bold]5728
+[color=#d16d1f]█[/color][color=#eb7a23]██[/color][color=#d16d1f]█▀[/color][color=#25b266]▄█[/color][color=#1c8a4e]█[/color][color=#d16d1f]▐[/color][color=#eb7a23]███[/color][color=#d16d1f]█▀[/color][color=#EEEEEE]▄█[/color][color=#DDDDDD]█[/color]                           [bold]Specimen Acquisition[/bold]
+[color=#d16d1f]██▀[/color][color=#25b266]▄█[/color][color=#1c8a4e]█▀[/color][color=#FFFFFF]░[/color][color=#d16d1f]▐██▀[/color][color=#EEEEEE]▄█[/color][color=#DDDDDD]█▀▐[/color][color=#eb7a23]▐████████[/color]   [bold]Form[/bold]
+[color=#eb7a23][italic]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/italic][/color]
+[head=3]Xenobiological Information[/head]
+
+[bullet/][bold]Species:[/bold][color=red]__________[/color]
+     [bullet/][bold]Type:[/bold][color=red]__________[/color]
+     [bullet/][bold]Designation:[/bold][color=red]__________[/color]
+[bullet/][bold]Status:[/bold]
+     [bullet/]Living:[color=red]( )[/color]
+     [bullet/]Deceased:[color=red]( )[/color]
+[bullet/][bold]Bodily Condition:[/bold][color=red]__________________[/color]
+
+[bullet/][bold]Additional Notes:[/bold][color=red]__________________[/color]
+
+[color=#eb7a23][italic]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/italic][/color]
+[head=3]Acquisition Rights and Non-disclosure[/head]
+
+[italic] This form is to be filled out when collection of a biological specimen is deemed to be in the interest of the Weston-Yamada Corporation. Signing this form gives the Weston-Yamada Corporation full ownership of the specified sample, allowing them the right to move, study, and utilize the specimen as they see fit. Further relocation and handling of the sample is to be performed by Corporate Liaison [bold][color=#25b266](INSERT NAME HERE)[/color][/bold]. Weston-Yamada and its representatives withhold the right to refuse to answer any inquiries regarding the future usage of any xenobiological lifeforms gathered during the course of operation. However, the UNMC has the right to receive the results of and biological analyses performed by the Weston-Yamada Corporation for the sake of future cooperation and transparency; this right may be withheld in future situations where the UNMC distributes, communicates, or publishes this information outside UNMC Channels and Chain of Command. For Further Information, please review Form-1409 (UNMC Confidentiality Agreement), as any biological information produced by the Weston-Yamada Corporation is considered confidential corporate information. [/italic]
+
+[bold]Relevant Command Member: [/bold][color=#1b67a5](INSERT NAME), (INSERT RANK).[/color]
+
+[color=#eb7a23][italic]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/italic][/color]
+
+Weston-Yamada Special Services Department,
+[color=#25b266]Corporate Liaison, UNS Almayer, (INSERT NAME HERE)[/color]
