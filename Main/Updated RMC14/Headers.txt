@@ -72,3 +72,27 @@ Plain
 [italic][color=#E41B1B]Use of this document inconsistent with UCMJ regulations and UNMC policy MIL-891 is a violation of federal law and will result in prosecution.[/color][/italic]
 [italic][bold][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
 - Please tick ✔
+
+UNRESTRICTED – Public & General Corporate Data
+[italic][color=#ff0000]                             ****** UNRESTRICTED ****** 
+This document contains publicly accessible Weston-Yamada corporate materials. While unrestricted, unauthorized modifications, misuse, or misrepresentation of this data may result in corrective corporate action.[/color][/italic]
+
+INTERNAL USE ONLY – Standard Employee Access
+[italic][color=#ff0000]                        ****** INTERNAL USE ONLY ****** 
+This document is intended for internal Weston-Yamada personnel only. Unauthorized sharing or external dissemination of this information is strictly prohibited and may result in disciplinary action, including termination of corporate privileges.[/color][/italic]
+
+CONFIDENTIAL – Departmental Restricted Access
+[italic][color=#ff0000]                              ****** CONFIDENTIAL ****** 
+Access to this document is restricted to designated departmental personnel. Unauthorized access, sharing, or reproduction of its contents will be treated as a breach of corporate policy and may result in immediate administrative and legal action.[/color][/italic]
+
+CLASSIFIED – Departmental Executive Access 
+[italic][color=#ff0000]                                ****** CLASSIFIED ****** 
+This document is classified under Weston-Yamada corporate security protocols. Unauthorized access, distribution, or discussion of its contents will be considered a security violation and will result in immediate disciplinary action, up to and including termination and legal prosecution.[/color][/italic]
+
+RESTRICTED – Departmental Manager Access
+[italic][color=#ff0000]                                ****** RESTRICTED ****** 
+This document is designated RESTRICTED under Weston-Yamada executive security clearance. Unauthorized access, duplication, or disclosure will trigger corporate-sanctioned countermeasures, including asset seizure, contract termination, and legal action against involved parties.[/color][/italic]
+
+TOP SECRET – Board of Directors Access
+[italic][color=#ff0000]                               ****** TOP SECRET ****** 
+This document is classified as TOP SECRET. Unauthorized access, reproduction, or dissemination will result in immediate corporate-sanctioned countermeasures, including but not limited to termination and full asset liquidation. Weston-Yamada retains absolute authority over all personnel and enforces total compliance with operational mandates.[/color][/italic]

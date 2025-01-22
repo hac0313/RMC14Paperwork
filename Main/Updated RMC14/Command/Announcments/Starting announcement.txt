@@ -1,4 +1,7 @@
-[head=1][color=red]Rise and shine, crew![/head][/color]
-[color=red]▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄[/color]
+[head=1][color=#FFA500]Rise and Shine Marines![/head][/color]
+[color=#005F8F]▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄[/color]
 
-[color=#A9CFF2]Attention all hands, this is your commander. We have received a distress beacon from[/color] [color=#00BFFF](location)[/color][color=#A9CFF2].[/color] [color=#A9CFF2]All stations, prepare for emergency response. Marines, gear up and report to the[/color] [color=#00BFFF](location)[/color] [color=#A9CFF2]in[/color] [color=#00BFFF](time)[/color] [color=#A9CFF2]for mission details. Stand by for further updates. Commander out.[/color][color=#1b67a5]
+[color=#C0C0C0]We have received a distress beacon from [color=#FF6347]locationHERE[/color].
+All stations, prepare the Almayer for geostationary orbital support. 
+
+Marines, gear up and report to the [color=#FF6347]locationHERE[/color] in [color=#FF6347]timeHERE[/color] for mission details.[/color][color=#1b67a5]
