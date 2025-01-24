@@ -7,7 +7,7 @@
 [bold]DETAILS:[/bold]
 [bold]Name:[/bold] (Insert Name)
 [bold]Rank:[/bold] (Insert Rank)
-[bold]Role:[/bold] Hospital Corpsman
+[bold]Role:[/bold] (Insert Role)
 [bold]Squad:[/bold] (Insert Squad)
 
 [bold]Reason for request:[/bold]
