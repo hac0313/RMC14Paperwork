@@ -12,14 +12,13 @@ I, [italic]Character Name Here[/italic], an enlisted member of the UNMC, hereby 
 [bullet/]I understand that all previous last wills and testaments I have authorized are completely and fully superseded by this document and will be rendered invalid. 
 [bullet/]I understand that signing this document waives my right, or the rights of any immediate family members, to engage Weston-Yamada in a court of law on any grounds. 
 [bullet/]I understand that my next of kin will be notified of my death no more than thirty (30) days after being declared deceased or killed in action by the relevant authorities.
-[bullet/]I agree to all stipulations and requirements within document CL-563A.
 
 [bold]Signed,[/bold] 
 (Rank) (Full Name),(Role)
 UNMC 2nd Company [italic]"Falling Falcons"[/italic]
 [italic][bold][color=#eb7a23]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
 [bold]Approved by,[/bold]
-(CL name here)
-Weston-Yamada Corporate Liaison [italic]Almayer[/italic] 
+[color=#AA8760]NAMEHERE, Corporate Liaison | [italic]UNS Almayer[/italic][/color]
+[color=#eb7a23][bolditalic]Weston-Yamada[/color] Special Services Department[/bolditalic]
 [color=#383838]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
 [color=#AAAAAA][italic]*Compensation subject to all relevant stipulations as defined in section one of document CL-563A.[/italic][/color]

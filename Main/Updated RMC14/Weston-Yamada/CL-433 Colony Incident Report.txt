@@ -21,5 +21,8 @@ has been authorized by the UNMC or the Weston-Yamada Corporation.[/bolditalic]
 
 [bullet/][bold]Further Action Recommended:[/bold] WRITEHERE
 [color=#eb7a23][italic]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/italic][/color]
-[color=#AA8760]NAMEHERE, Corporate Liaison | [italic]Almayer[/italic][/color]
-[bolditalic]Weston-Yamada Special Services Department[bolditalic]
+[color=#AA8760]NAMEHERE, Corporate Liaison | [italic]UNS Almayer[/italic][/color]
+[color=#eb7a23][bolditalic]Weston-Yamada[/color] Special Services Department[/bolditalic]
+[color=#383838]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+                                      [color=#a62d2d][head=3]CONFIDENTIAL[/head][/color]
+[italic][color=#872a2a]Access to this document is restricted to designated departmental personnel. Unauthorized access, sharing, or reproduction of its contents will be treated as a breach of corporate policy and may result in immediate administrative and legal action.[/color][/italic]
