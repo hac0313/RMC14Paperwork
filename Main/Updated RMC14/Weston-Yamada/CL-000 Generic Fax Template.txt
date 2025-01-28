@@ -17,9 +17,6 @@
 
 
 
-
-
-
 [bold]Signed,[/bold]
 [color=#1b67a5][italic]NAMEHERE[/italic][/color] 
 [bolditalic]Corporate Liasion[/bolditalic]|[bold]UNS[/bold] [bolditalic]Almayer[/bolditalic]
