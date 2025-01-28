@@ -1,13 +1,14 @@
 [color=#d16d1f]█[/color][color=#eb7a23]▌[color=#FFFFFF]░░░░[/color]▄███▌[color=#25b266]▌▄[/color][color=#1c8a4e]█▀[/color]▄██████████[/color]    [bold]Special Services[/bold]
-[color=#d16d1f]█[/color][color=#eb7a23]▌[color=#FFFFFF]░░[/color]▄██[color=#d16d1f]██[/color]█▌[color=#1c8a4e]█▀[/color]▄██[color=#d16d1f]█▀[/color][/color]                          [bold]Department[/bold]
-[color=#d16d1f]█[/color][color=#eb7a23]▌▄██[color=#d16d1f]█▀[/color][color=#1c8a4e]▄[/color][color=#d16d1f]▐[/color]█▌▄██[color=#d16d1f]█▀[/color][color=#EEEE]▄[/color]▐████████[/color]    [bold]Form:[/bold]2736
+[color=#d16d1f]█[/color][color=#eb7a23]▌[color=#FFFFFF]░░[/color]▄██[color=#d16d1f]██[/color]█▌[color=#1c8a4e]█▀[/color]▄██[color=#d16d1f]█▀[/color][/color]                          [bold]Division[/bold]
+[color=#d16d1f]█[/color][color=#eb7a23]▌▄██[color=#d16d1f]█▀[/color][color=#1c8a4e]▄[/color][color=#d16d1f]▐[/color]█▌▄██[color=#d16d1f]█▀[/color][color=#EEEE]▄[/color]▐████████[/color]    [bold]Form: [/bold]2736
 [color=#d16d1f]█[/color][color=#eb7a23]██[/color][color=#d16d1f]█▀[/color][color=#25b266]▄█[/color][color=#1c8a4e]█[/color][color=#d16d1f]▐[/color][color=#eb7a23]███[/color][color=#d16d1f]█▀[/color][color=#EEEEEE]▄█[/color][color=#DDDDDD]█[/color]                             [bold]Colonist NDA[/bold]
 [color=#d16d1f]██▀[/color][color=#25b266]▄█[/color][color=#1c8a4e]█▀[/color][color=#FFFFFF]░[/color][color=#d16d1f]▐██▀[/color][color=#EEEEEE]▄█[/color][color=#DDDDDD]█▀▐[/color][color=#eb7a23]▐████████[/color]
-[color=#eb7a23][italic]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/italic][/color]
+[color=#383838]▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄[/color]
+[color=#eb7a23]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
 I, [bolditalic][color=#25b266] (INSERT NAME HERE) [/color][/bolditalic], promise to not disclose sensitive information or take legal action against the Weston-Yamada Corporation in regards to the events of [bold][color=#eb7a23](INSERT COLONY NAME HERE)[/color][/bold]. Furthermore, I will not communicate, publish, or distribute any confidential Weston-Yamada information, unless ordered to by a Weston-Yamada Executive. In signing this NDA, I am entitled to [bold]3[/bold] of the items below: 
 
 [bullet][bold]Financial Compensation: [/bold][color=red]( )[/color]
-         [italic]Specified Amount: [/italic][color=red]$5000[/color]
+         [italic]Specified Amount: [/italic][color=red]$10000[/color]
 
 [bullet][bold]Limited Insurance Coverage: [/bold][color=red]( )[/color]
 [italic] Select 1 type below.[/italic]
@@ -20,7 +21,7 @@ I, [bolditalic][color=#25b266] (INSERT NAME HERE) [/color][/bolditalic], promise
 [italic] The Weston-Yamada Corporation hold full authority of what is eligible for a claim.[/italic]
 
 [bullet][bold]Indefinite Pension: [/bold][color=red]( )[/color]
-         [italic]Income Per Year: [/italic][color=red]$360[/color]
+         [italic]Income Per Month: [/italic][color=red]$2,500[/color]
 
 [bullet/][bold]Tuition Aid:[/bold][color=red]( )[/color]
          [italic]Valid For: [/italic][color=red]2 Years[/color]
@@ -40,8 +41,8 @@ I, [bolditalic][color=#25b266] (INSERT NAME HERE) [/color][/bolditalic], promise
 
 [color=#eb7a23][italic]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/italic][/color]
 [italic]All needs are to be provided by the Weston-Yamada Corporation. In signing this NDA, I accept that some needs might not be able to be met by the Weston-Yamada Corporation, due to various factors; In such a case, representatives of both groups will convene in order to reach an agreement that satisfies both parties. If the Weston-Yamada Corporation refuses to meet my needs as described above without reasoning and/or discourse,  I am no longer legally bound to abide by this NDA. I acknowledge that if I violate the terms of this NDA at any point, the Weston-Yamada Corporation has the right to withhold or remove any of the items listed above, and may pursue legal action, depending on the severity of the confidentiality breach.[/italic]
+[color=#383838]▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄[/color]
+[color=#eb7a23]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
 
-[color=#eb7a23][italic]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/italic][/color]
-
-Weston-Yamada Special Services Department,
+Weston-Yamada Special Services Division,
 [color=#25b266]Corporate Liaison, UNS Almayer, (INSERT NAME HERE)[/color]
