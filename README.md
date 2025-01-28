@@ -18,4 +18,6 @@ Zaigan (also did a large number of the drive, huge thanks)
 
 Simon/Big Dave (Creator of the web editor)
 
+SharkSnake98 (Contributed a large amount of CL forms especially)
+
 SO MANY MORE in the papercord discord, too many to list. Thank you to everyone!!
