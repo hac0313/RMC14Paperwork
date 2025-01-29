@@ -5,10 +5,11 @@
 [color=#d16d1f]██▀[/color][color=#25b266]▄█[/color][color=#1c8a4e]█▀[/color][color=#FFFFFF]░[/color][color=#d16d1f]▐██▀[/color][color=#EEEEEE]▄█[/color][color=#DDDDDD]█▀▐[/color][color=#eb7a23]▐████████[/color]
 [color=#383838]▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄[/color]
 [color=#eb7a23]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+[head=2]Complainant Rights & Usage[/head]
 [italic]This form is to be filled in a situation involving or centering around Corporate personnel, assets, and/or performance, in which the Complainant has deemed it necessary to file a formal complaint. In this situation, the Weston-Yamada Corporation is liable to, at minimum, review the form. The Weston-Yamada Corporation is not legally required to take action on behalf of the Complainant; Action taken regarding concerns or complaints submitted is entirely up to the discretion of the Weston-Yamada Corporation and their subsidiaries. This form is admissible in court, barring situations where complaints are deemed irrelevant, false, or exaggerated. [/italic]
 
 [color=#eb7a23][italic]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/italic][/color]
-[head=3]Complaint Information[/head]
+[head=2]Complaint Information[/head]
 
 [bold]Complaint Submitted by: [/bold][color=#25b266](INSERT NAME, POSITION, & RANK[/color]
 
