@@ -5,7 +5,7 @@
 [color=#d16d1f]██▀[/color][color=#25b266]▄█[/color][color=#1c8a4e]█▀[/color][color=#FFFFFF]░[/color][color=#d16d1f]▐██▀[/color][color=#EEEEEE]▄█[/color][color=#DDDDDD]█▀▐[/color][color=#eb7a23]▐████████[/color]    [bold]Assignment[/bold]
 [color=#383838]▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄[/color]
 [color=#eb7a23]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
-[head=3]General Info[/head]
+[head=2]General Info[/head]
 
 [bolditalic]NAME: [/bolditalic][color=#25b266](INSERT NAME)[/color]
 
@@ -28,7 +28,7 @@
          [italic]Reimbursement Limit During Specified Duration : [/italic][color=red]$1500[/color]
 
 [color=#eb7a23][italic]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/italic][/color]
-[head=3]Legal Information[/head]
+[head=2]Legal Information[/head]
 
 [italic]This form, when signed, serves as a legal agreement between the Corporate Liaison and UNMC Personnel (Referred to as the Aide), in which the Aide will serve as an information relay to the Liaison, and may be requested to engage in favours and assistance. The Marine chain of command is not altered; Any orders issued by UNMC staff take priority over Liaison directives. Although the Aide is legally required to inform the Liaison of planetside information that is not confidential UNMC material when requested by the Corporate Liaison, the Aide has permission to refuse any additional commands that they believe will harm the success of UNMC Operations. However, they are legally required to explain to the Corporate Liaison why they cannot perform the additional tasks assigned to them. The Corporate Liaison is not liable in the case that the Aide performs illegal actions, as long as the illicit action was not ordered by the Corporate Liaison. 
 

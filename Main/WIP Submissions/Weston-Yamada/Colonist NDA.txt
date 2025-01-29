@@ -25,7 +25,7 @@ I, [bolditalic][color=#25b266] (INSERT NAME HERE) [/color][/bolditalic], promise
 
 [bullet/][bold]Tuition Aid:[/bold][color=red]( )[/color]
          [italic]Valid For: [/italic][color=red]2 Years[/color]
-         [italic]Reimbursement Limit During Specified Duration: [/italic][color=red]$2500[/color]
+         [italic]Reimbursement Limit During Specified Duration: [/italic][color=red]$2,500[/color]
 
 [bullet/][bold]Extensive Physical and Mental Care:[/bold][color=red]( )[/color]
 [italic]Please specify any conditions of note below.[/italic]

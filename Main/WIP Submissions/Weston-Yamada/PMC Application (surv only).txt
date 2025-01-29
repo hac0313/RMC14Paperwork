@@ -4,7 +4,7 @@
 [color=#d16d1f]█[/color][color=#eb7a23]██[/color][color=#d16d1f]█▀[/color][color=#25b266]▄█[/color][color=#1c8a4e]█[/color][color=#d16d1f]▐[/color][color=#eb7a23]███[/color][color=#d16d1f]█▀[/color][color=#EEEEEE]▄█[/color][color=#DDDDDD]█[/color]                             [bold]PMC Transfer[/bold]
 [color=#d16d1f]██▀[/color][color=#25b266]▄█[/color][color=#1c8a4e]█▀[/color][color=#FFFFFF]░[/color][color=#d16d1f]▐██▀[/color][color=#EEEEEE]▄█[/color][color=#DDDDDD]█▀▐[/color][color=#eb7a23]▐████████[/color]    [bold]Application[/bold]
 [color=#eb7a23][italic]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/italic][/color]
-[head=3]Applicant Information[/head]
+[head=2]Applicant Information[/head]
 [bolditalic]OVERSEEING LIAISON: [/bolditalic][color=#25b266](INSERT LIAISON NAME)[/color]
 
 
@@ -30,7 +30,7 @@
 [italic]For a comprehensive list and further information, please contact Weston-Yamada Human Resources. [/italic]
 
 [color=#eb7a23][italic]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/italic][/color]
-[head=3]Details[/head]
+[head=2]Details[/head]
 
 [italic]In signing this form, the Applicant acknowledges that any and all previous employment contracts are hereby considered void; they are legally bound to serve the Corporate Liaison and the Weston-Yamada Corporation. This means they must adhere to internal company bylaws, procedures, and policies, as well as the company chain of command, outlined in [bold]Internal Memo WY-809-P (Chain of Command & Company Policies)[/bold]. This means they are required to follow the orders of the overseeing Corporate Liaison or their superiors, as well as following all relevant safety and confidentiality policies. For further information of what [bold]Internal Memo WY-809-P[/bold], entails, please contact the Weston-Yamada Human Resources Department.
 
