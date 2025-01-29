@@ -15,9 +15,16 @@ Munition Type: [color=red]________[/color]
 
 Colony Section Fired Upon: [color=red]________[/color]
 
-Projected Damage to Corporate Assets: [color=red]________[/color]
+Projected Damage to Corporate Assets
+     [bullet/][italic]Minor: [/italic][color=red]( )[/color]
+     [bullet/][italic]Moderate: [/italic][color=red]( )[/color]
+     [bullet/][italic]Major: [/italic][color=red]( )[/color]
 
-Projected Damage to Enemy Assets: [color=red]________[/color]
+Projected Damage to Enemy Assets
+     [bullet/][italic]Minor: [/italic][color=red]( )[/color]
+     [bullet/][italic]Moderate: [/italic][color=red]( )[/color]
+     [bullet/][italic]Major: [/italic][color=red]( )[/color]
+
 
 [bold]Justification Conclusion: [/bold][color=red]________[/color]
 
@@ -28,9 +35,16 @@ Munition Type: [color=red]________[/color]
 
 Colony Section Fired Upon: [color=red]________[/color]
 
-Projected Damage to Corporate Assets: [color=red]________[/color]
+Projected Damage to Corporate Assets
+     [bullet/][italic]Minor: [/italic][color=red]( )[/color]
+     [bullet/][italic]Moderate: [/italic][color=red]( )[/color]
+     [bullet/][italic]Major: [/italic][color=red]( )[/color]
 
-Projected Damage to Enemy Assets: [color=red]________[/color]
+Projected Damage to Enemy Assets
+     [bullet/][italic]Minor: [/italic][color=red]( )[/color]
+     [bullet/][italic]Moderate: [/italic][color=red]( )[/color]
+     [bullet/][italic]Major: [/italic][color=red]( )[/color]
+
 
 [bold]Justification Conclusion: [/bold][color=red]________[/color]
 
@@ -41,9 +55,16 @@ Munition Type: [color=red]________[/color]
 
 Colony Section Fired Upon: [color=red]________[/color]
 
-Projected Damage to Corporate Assets: [color=red]________[/color]
+Projected Damage to Corporate Assets
+     [bullet/][italic]Minor: [/italic][color=red]( )[/color]
+     [bullet/][italic]Moderate: [/italic][color=red]( )[/color]
+     [bullet/][italic]Major: [/italic][color=red]( )[/color]
 
-Projected Damage to Enemy Assets: [color=red]________[/color]
+Projected Damage to Enemy Assets
+     [bullet/][italic]Minor: [/italic][color=red]( )[/color]
+     [bullet/][italic]Moderate: [/italic][color=red]( )[/color]
+     [bullet/][italic]Major: [/italic][color=red]( )[/color]
+
 
 [bold]Justification Conclusion: [/bold][color=red]________[/color]
 
