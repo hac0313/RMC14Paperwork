@@ -4,11 +4,11 @@
 [color=#1b67a5]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
                       [head=1]Operation Report[/head]
 
-[bold]To:[/bold] [bolditalic]The Office of Deputy Commandant Sinclair[/bolditalic]; 
-UNS [italic]Eminent Domain[/italic] SCC-102
+[bold]To:[/bold] The Office of [bold][color=#1b67a5]General ████████[/color][/bold]; 
+UNS [italic]Eminent Domain[/italic] [color=#cb0000]SCC-102[/color]
 ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 [italic]WRITE YOUR MIDROUND OPERATIONS REPORT HERE[/italic]
 
 Signed,
-[italic]RANK NAME[/italic]
-(Acting) Commander of the UNS Alamyer
+RANK NAMEHERE
+[color=#1b67a5][italic]ROLE HERE[/italic][/color]
