@@ -50,7 +50,7 @@ Projected Damage to Enemy Assets: [color=red]________[/color]
 
 [color=#eb7a23][italic]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/italic][/color]
 [head=2]Usage[/head]
-[italic]This form is a record of all instances of Orbital Cannon Discharges, and any pertinent information regarding the aforementioned launch. Upon operational completion, this form is to be filed in order to analyze damage to colonial assets, assess munition effectiveness, and examine how justified utilization of an Orbital Barrage was in terms of operation success. Reporting Liaisons are advised to inquire with relevant shipside engineers and/or command staff for information regarding the usage of the [color=#25b266]Almayer’s[/color] Orbital Cannon.[/italic]
+[italic]This form is a record of all instances of UNMC Orbital Cannon System Discharges, and any pertinent information regarding the aforementioned launch. Upon operational completion, this form is to be filed in order to analyze damage to colonial assets, assess munition effectiveness, and examine how justified utilization of an Orbital Barrage was in terms of operation success. Reporting Liaisons are advised to inquire with relevant shipside engineers and/or command staff for information regarding the usage of the [color=#25b266]Almayer’s[/color] Orbital Cannon.[/italic]
 
 [color=#383838]▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄[/color]
 [color=#eb7a23]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
