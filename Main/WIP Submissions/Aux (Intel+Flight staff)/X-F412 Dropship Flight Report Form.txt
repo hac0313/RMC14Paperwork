@@ -2,31 +2,30 @@
 [color=#5f698a]▀▄▄▀ █[/color] [color=#f39f27]▀█[/color] [color=#AAAAAA][italic]UNS Almayer; 2nd Company "Falling Falcons"[/color][/italic]
 [color=#f39f27]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color] 
 
-[head=1][color=#1b67a5]Dropship Flight Report Form[/color][/head]
+[head=1][color=#1b67a5]Dropship Flight Report Form[/color][/head][color=black]
 
 [bold]AUD-25 Designation:[/bold] (Alamo or Normandy)
 
-[bold]Original Deployment/Cycle #:[/bold]
+[bold]Flight No. :[/bold] #
 
+[bold]Departure from Alamyer:[/bold] 
 Marines Onboard: #
-Special Personnel Onboard: ROLE, #; ROLE, #
+Special Personnel Onboard: # ROLE
 
 Detailed Cargo Onboard: 
 [italic][bullet/]WRITE HERE
 [bullet/]WRITE HERE*
 [/italic]
-[bold]Return to Vessel:[/bold]
-
+[bold]Departure to Alamyer:[/bold]
 Marines Onboard: #
-Special Personnel Onboard: ROLE, #; ROLE, #
+Special Personnel Onboard: # ROLE
 
 Detailed Cargo Onboard: 
 [italic][bullet/]WRITE HERE
 [bullet/]WRITE HERE*
 [/italic]
-[bold]Overall:[/bold]
-
-Total Ammo Rounds Fired: #
+[bold]Misc. Information:[/bold]
+Total Fire Missions: #
 [bullet/]Anti-Tank Rounds Fired: #
 [bullet/]Multi-Purpose Rounds Fired: #
 
@@ -36,7 +35,7 @@ Additional Flight Information:
 [italic]Cargo marked with an asterisk (*) were retrieved with utilization of Close Air Support Evacuation Systems[/italic]
 
 [italic][bold][color=#f39f27]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
-                         [head=3]- DECLARATION -[/head]
+                                [head=3]- DECLARATION -[/head]
 
 [bullet/]I confirm that both the contents and utilized assets of the ship have been documented and delivered as listed.
 [bullet/]I understand any falsification, discrepancies, unauthorized modifications, or omissions will be investigated under UNMC regulations.

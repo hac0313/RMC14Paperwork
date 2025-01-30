@@ -2,17 +2,18 @@
 [color=#5f698a]▀▄▄▀ █[/color] [color=#f39f27]▀█[/color] [color=#AAAAAA][italic]UNS Almayer; 2nd Company "Falling Falcons"[/color][/italic]
 [color=#f39f27]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color] 
 
-[head=1][color=#1b67a5]Gunship Flight Report Form[/color][/head]
+[head=1][color=#1b67a5]Gunship Flight Report Form[/color][/head][
 
 [bold]AUD-25 Designation:[/bold] (Alamo or Normandy)
 
-[bold]Cycle #:[/bold]
+[bold]Flight No. :[/bold] #
 
-Total Ammo Rounds Fired: #
+Total Fire Missions: #
 [bullet/]Anti-Tank Rounds Fired: #
 [bullet/]Multi-Purpose Rounds Fired: #
+[bullet/]Total Rounds Fired: #
 
-Total Close Air Support Evacuations: #
+Total Causality Evacuations: #
 [bullet/]Space Sleep Disorder Patients: #
 [bullet/]Stasis Bag Patients: #
 [bullet/]Bodies: #
@@ -22,7 +23,7 @@ Additional Flight Information:
 [italic]WRITE HERE[/italic]
 
 [italic][bold][color=#f39f27]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
-                         [head=3]- DECLARATION -[/head]
+                                  [head=3]- DECLARATION -[/head]
 
 [bullet/]I confirm that both the contents and utilized assets of the ship have been documented as listed. 
 [bullet/]I understand any falsification, discrepancies, unauthorized modifications, or omissions will be investigated under UNMC regulations.  
