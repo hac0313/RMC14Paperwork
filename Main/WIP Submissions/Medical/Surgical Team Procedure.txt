@@ -1,0 +1,35 @@
+[color=#58B38B]█[/color][color=#ffffff]░░[/color][color=#5B97BC]█ [color=#58B38B]█▄[/color] █[/color] [head=3]U[/head][bold]nited [head=3]N[/head]ations [head=3]M[/head]arine [head=3]C[/head]orps[/bold]     [bold]Form:  [/bold][color=#ff0000][/color]
+[color=#5B97BC]▀▄▄[color=#58B38B]▀[/color] █[/color] [color=#58B38B]▀█[/color] [color=#AAAAAA][italic]UNS Almayer; 2nd Company "Falling Falcons"[/color][/italic]
+[color=#58B38B]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+[head=1][color=#5B97BC]            Medical Procedure[/color][/head]
+[italic]This form is used to document proposed surgical procedures for training purposes.[/italic]
+[color=#58B38B]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+[bold]DETAILS:[/bold]
+[bold]Surgical Staff:[/bold]
+[bullet/] Doctor x1
+  [bullet/] Scalpel
+  [bullet/] Hemostat
+[bullet/] Nurse x1
+  [bullet/] Scalpel
+  [bullet/] Circular Saw
+[bullet/] Nurse x1
+  [bullet/] Hemostat
+  [bullet/] Retractor
+[color=#58B38B]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[bold]Steps:[/bold]
+ [bold]1:[/bold] Doctor will queue surgery by starting the incision, they will then prepare for extraction.
+ [bold]2:[/bold] Nurse two will finish the incision process.
+ [bold]3:[/bold] Nurse one will begin to open the ribcage, and Nurse two will prise open the ribs.
+ [bold]4:[/bold] Doctor will then extract the embryo.
+ [bold]5:[/bold] Nurse one will prepare bone gel and cautery
+ [bold]6:[/bold] Nurse two will begin closing the incision.
+[color=#58B38B]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+                                     [head=3]- VERIFICATION -[/head]
+[bullet/] This medical procedure has been thoroughly reviewed, verified for accuracy, and approved under UNMC Medical Protocols.
+[bullet/] Any discrepancies will be subject to investigation under the Uniform Code of Military Justice (UCMJ).
+
+[bold]Reviewed By:[/bold]
+[color=#1b67a5][italic]RANKHERE NAMEHERE[/italic][/color]
+[bolditalic]Chief Medical Officer[/bolditalic]
+[color=#AAAAAA]===================================================[/color]
+[italic][color=#E41B1B]Use of this document inconsistent with UCMJ regulations and UNMC policy MIL-891 is a violation of federal law and will result in prosecution.[/color][/italic] 
