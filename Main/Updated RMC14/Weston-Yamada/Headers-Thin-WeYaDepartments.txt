@@ -1,0 +1,48 @@
+Special Services Division
+[color=#383838]▄[/color][color=#EAEDDE]░░░[/color][color=#383838]▄[/color]                                                                         [bold]Form:[/bold] [color=#ff0000]WY-1XX[/color]
+[color=#6FD15C]█[/color][color=#383838]▀[/color][color=#6FD15C]▄[/color][color=#383838]▀[/color][color=#6FD15C]█[/color]  [head=1]Weston-Yamada[/head]   
+[color=#ffffff]░[/color][color=#6FD15C]█[/color][color=#EAEDDE]░[/color][color=#6FD15C]█[/color]      [head=3][color=#6FD15C]Special Services[/head][/color]
+[color=#383838]▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄[/color]
+[color=#6FD15C]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+
+Corporate Relations Division
+[color=#383838]▄[/color][color=#EAEDDE]░░░[/color][color=#383838]▄[/color]                                                                         [bold]Form:[/bold] [color=#ff0000]WY-3XX[/color]
+[color=#EAD672]█[/color][color=#383838]▀[/color][color=#EAD672]▄[/color][color=#383838]▀[/color][color=#EAD672]█[/color]  [head=1]Weston-Yamada[/head]   
+[color=#ffffff]░[/color][color=#EAD672]█[/color][color=#EAEDDE]░[/color][color=#EAD672]█[/color]      [head=3][color=#EAD672]Corporate Relations[/head][/color]
+[color=#383838]▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄[/color]
+[color=#EAD672]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+
+Communications Division
+[color=#383838]▄[/color][color=#EAEDDE]░░░[/color][color=#383838]▄[/color]                                                                         [bold]Form:[/bold] [color=#ff0000]WY-2XX[/color]
+[color=#FFAA55]█[/color][color=#383838]▀[/color][color=#FFAA55]▄[/color][color=#383838]▀[/color][color=#FFAA55]█[/color]  [head=1]Weston-Yamada[/head]   
+[color=#ffffff]░[/color][color=#FFAA55]█[/color][color=#EAEDDE]░[/color][color=#FFAA55]█[/color]      [head=3][color=#FFAA55]Communications[/head][/color]
+[color=#383838]▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄[/color]
+[color=#FFAA55]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+
+PMC Dispatch Division
+[color=#383838]▄[/color][color=#EAEDDE]░░░[/color][color=#383838]▄[/color]                                                                         [bold]Form:[/bold] [color=#ff0000]WY-4XX[/color]
+[color=#FF6655]█[/color][color=#383838]▀[/color][color=#FF6655]▄[/color][color=#383838]▀[/color][color=#FF6655]█[/color]  [head=1]Weston-Yamada[/head]   
+[color=#ffffff]░[/color][color=#FF6655]█[/color][color=#EAEDDE]░[/color][color=#FF6655]█[/color]      [head=3][color=#FF6655]Private Military Contractors[/head][/color]
+[color=#383838]▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄[/color]
+[color=#FF6655]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+
+Research and Development
+[color=#383838]▄[/color][color=#EAEDDE]░░░[/color][color=#383838]▄[/color]                                                                         [bold]Form:[/bold] [color=#ff0000]WY-5XX[/color]
+[color=#1b67a5]█[/color][color=#383838]▀[/color][color=#1b67a5]▄[/color][color=#383838]▀[/color][color=#1b67a5]█[/color]  [head=1]Weston-Yamada[/head]   
+[color=#ffffff]░[/color][color=#1b67a5]█[/color][color=#EAEDDE]░[/color][color=#1b67a5]█[/color]      [head=3][color=#1b67a5]Research and Development[/head][/color]
+[color=#383838]▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄[/color]
+[color=#1b67a5]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+
+Economics Division
+[color=#383838]▄[/color][color=#EAEDDE]░░░[/color][color=#383838]▄[/color]                                                                         [bold]Form:[/bold] [color=#ff0000]WY-6XX[/color]
+[color=#908EF7]█[/color][color=#383838]▀[/color][color=#908EF7]▄[/color][color=#383838]▀[/color][color=#908EF7]█[/color]  [head=1]Weston-Yamada[/head]   
+[color=#ffffff]░[/color][color=#908EF7]█[/color][color=#EAEDDE]░[/color][color=#908EF7]█[/color]      [head=3][color=#908EF7]Economics[/head][/color]
+[color=#383838]▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄[/color]
+[color=#908EF7]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+
+Psi Division
+[color=#383838]▄[/color][color=#EAEDDE]░░░[/color][color=#383838]▄[/color]                                                                         [bold]Form:[/bold] [color=#ff0000]WY-7XX[/color]
+[color=#B11F7A]█[/color][color=#383838]▀[/color][color=#B11F7A]▄[/color][color=#383838]▀[/color][color=#B11F7A]█[/color]  [head=1]Weston-Yamada[/head]   
+[color=#ffffff]░[/color][color=#B11F7A]█[/color][color=#EAEDDE]░[/color][color=#B11F7A]█[/color]      [head=3][color=#B11F7A]Psi Division[/head][/color]
+[color=#383838]▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄[/color]
+[color=#B11F7A]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
