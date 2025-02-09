@@ -4,7 +4,7 @@
 [color=#383838]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
         [head=1]Provost Correspondence[/head]
 
-[bold]To:[/bold] [color=#cb0000][bold]Provost[/bold][/color] Sector Marshall
+[bold]To:[/bold] [color=#cb0000][bold]Provost[/bold][/color] Sector Marshal
 [bold]Subject:[/bold] [italic]WRITE HERE[/italic]
 [color=#134975][bold]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold]
 [italic]WRITE REPORT HERE[/italic]
