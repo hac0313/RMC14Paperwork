@@ -19,6 +19,7 @@
 
 [bold]Cadaver disposal-[/bold]
 (  ) [italic]Incinerator[/italic]     (  ) [italic]Cryostasis[/italic]     (✔) [italic]Morgue[/italic]
+
 [bold]Issuing Authority:[/bold] [color=#1b67a5][italic]Rank Name, ROLEHERE[/italic][/color]
 [color=#AAAAAA]===================================================
 [italic][bullet/]I certify that the above information is accurate and complete to the best of my knowledge. 
