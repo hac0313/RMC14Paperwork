@@ -24,9 +24,9 @@ Team Two:
 [color=#cb0000][bold]Notice:
 All APC's must be checked to ensure full functionality. Report any abnormalities in the power-grid in the Notes section, including the APC and Battery Serial-Code and Location.
 
-All Locations listen below are to be checked for damage. Upon discovery of damage to critical equipment, repairs are to be made immediately and notorized in the notes section.
+All Locations listed below are to be checked for damage. Upon discovery of damage to critical equipment, repairs are to be made immediately and notarized in the notes section.
 
-Non-Critical, faulty or otherwise worn equipment is to be tagged with yellow tape for replacement or later repair. Description of wear and location are to be notorized in the notes section.[/bold][/color]
+Non-Critical, faulty or otherwise worn equipment is to be tagged with yellow tape for replacement or later repair. Description of wear and location are to be notarized in the notes section.[/bold][/color]
 
 Mark [color=ForestGreen]✔[/color] where Applicable
 
