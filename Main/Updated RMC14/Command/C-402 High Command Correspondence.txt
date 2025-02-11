@@ -4,11 +4,11 @@
 [color=#1b67a5]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
    [head=1]Command Correspondence[/head]
 
-[bold]To:[/bold] The Office of [bold][color=#1b67a5]General ████████[/color][/bold]; 
-UNS [italic]Eminent Domain[/italic] [color=#cb0000]SCC-102[/color]
+[bold]To:[/bold] The Office of [bold][color=#1b67a5]Brigadier General ████████[/color][/bold]; 
+UNS [italic]██████[/italic] [color=#cb0000]SCC-███[/color]
 [bold]Subject:[/bold] [italic]WRITE HERE[/italic]
 ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-[italic]General,
+[italic]Brigadier General,
 WRITE HERE[/italic]
 
 [bold]Sincerely,[/bold]

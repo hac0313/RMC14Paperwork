@@ -20,5 +20,5 @@ RANK NAMEHERE
 [bold]Authorised by,[/bold]
 RANK NAMEHERE
 [color=#1b67a5][italic]ROLEHERE[/italic][/color]
-[italic][bold][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
+[color=#AAAAAA]===================================================[/color]
 [italic][color=#E41B1B]Use of this document inconsistent with UCMJ regulations and UNMC policy MIL-891 is a violation of federal law and will result in prosecution.[/color][/italic]
