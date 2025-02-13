@@ -22,7 +22,7 @@
         [bold]Members of Fireteam:[/bold]
             [bullet/] [color=#72856d][italic]RANK NAME, ROLE[/italic][/color]
                                       ---
-[bold][color=#287015]Support Personnel[/bold]
+[bold][color=#287015]Support Personnel[/color][/bold]
     [bold]Name:[/bold] [color=#72856d][italic]RANK NAME[/italic][/color]
     [bold]Responsibility:[/bold] [color=#72856d][italic](Sorting/Overwatch)[/italic][/color]
  
