@@ -32,6 +32,10 @@ Req Brown2:      [color=#dfc189]█ #dfc189 █[/color]
 
 Subtext Biege:   [color=#AA8760]█ #AA8760 █[/color]
 
+Intel Green:     [color=#287015]█ #287015 █[/color]
+
+Alt Intel:       [color=#75946d]█ #75946d █[/color]
+
 We-Ya Grey:      [color=#383838]█ #383838 █[/color]
 
 We-Ya Orange:    [color=#eb7a23]█ #eb7a23 █[/color]
