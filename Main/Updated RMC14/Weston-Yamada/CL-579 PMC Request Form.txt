@@ -5,7 +5,7 @@
 [color=#eb7a23]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
 [head=2]Request Details[/head]
 
-[bold]Requesting Liaison: [/bold][color=#25b266](INSERT NAME HERE)[/color]
+[bold]Requesting Liaison: [/bold][color=#eb7a23](INSERT NAME HERE)[/color]
 
 [bold]Liaison Post: [/bold][color=#134975][bolditalic]UNS Almayer[/bolditalic] | ZPT-304[/color]
 

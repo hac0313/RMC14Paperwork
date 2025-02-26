@@ -4,7 +4,7 @@
 [color=#383838]▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄[/color]
 [color=#eb7a23]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
 [head=2]General Info[/head]
-[italic]I, [/italic][color=#25b266](INSERT NAME), Corporate Liaison,[/color][italic] request permission to view any intel gathered by UNMC Personnel during the course of this operation. In doing so, I agree to the following tenants outlined below.[/italic]
+[italic]I, [/italic][color=#eb7a23](INSERT NAME), Corporate Liaison,[/color][italic] request permission to view any intel gathered by UNMC Personnel during the course of this operation. In doing so, I agree to the following tenants outlined below.[/italic]
 
 [head=3]Non-Interference Policy[/head]
 The requesting Liaison is not permitted, under any circumstances, to destroy, tamper with, or confiscate any documents gathered by the UNMC, unless permitted by relevant Command members. Failure to adhere to this ruling is considered grounds for future investigation.
