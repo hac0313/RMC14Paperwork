@@ -16,8 +16,8 @@
 [bold]Squad:[/bold]
 [italic][bold][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
 [color=DarkRed][bold]List of Charges and Penalties[/color][/bold]
-[bullet/][bold]CRIMEHERE[/bold]; for a duration of TIMEHERE.
-[bullet/]
+[bullet][bold]CRIMEHERE[/bold]; for a duration of TIMEHERE.
+[bullet]
 [italic][bold][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
 [bold]Signed,[/bold]
 [color=#134975][italic]RANK NAMEHERE[/italic][/color]

@@ -6,18 +6,18 @@ UNMC Almayer Generic
 [color=#6e6e6e][italic]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/italic][/color]
 [head=3]Information[/head]
 
-[bullet/][bold]Name: [/bold]NAME
+[bullet][bold]Name: [/bold]NAME
 
-[bullet/][bold]Rank:[/bold] RANK
+[bullet][bold]Rank:[/bold] RANK
 
-[bullet/][bold]Squad:[/bold] SQUAD
+[bullet][bold]Squad:[/bold] SQUAD
 
-[bullet/][bold]Religious Affiliation:[/bold] RELIGION 
-     [bullet/]Denomination, if applicable: N/A
+[bullet][bold]Religious Affiliation:[/bold] RELIGION 
+     [bullet]Denomination, if applicable: N/A
 
-[bullet/][bold]Qualifications:[/bold] WRITE HERE
+[bullet][bold]Qualifications:[/bold] WRITE HERE
 
-[bullet/][bold]Reason for Application[/bold]: WRITE HERE
+[bullet][bold]Reason for Application[/bold]: WRITE HERE
 
 [italic][bold][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
 [bold]Signed,[/bold]

@@ -10,9 +10,9 @@ This pass entitles the bearer to leave on liberty from the UNS Almayer. Use of t
 [bold]Squad:[/bold] SQUADHERE
 
 [bold]Reason/s:[/bold] 
-[bullet/] List their reasons here
-[bullet/] And here
-[bullet/] Finally here
+[bullet] List their reasons here
+[bullet] And here
+[bullet] Finally here
 [italic][bold][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
 [bold]Authorised by,[/bold]
 [italic][color=#134975]RANK FULLNAME[/italic][/color]

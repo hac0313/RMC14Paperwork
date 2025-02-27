@@ -20,8 +20,8 @@
 
 [color=#58B38B]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
                                      [head=3]- VERIFICATION -[/head]
-[bullet/] This medical supply request has been thoroughly reviewed, verified for accuracy, and approved under UNMC Medical and Logistics Protocols.
-[bullet/] Any discrepancies or misuse of supplies will be subject to investigation under the Uniform Code of Military Justice (UCMJ).
+[bullet] This medical supply request has been thoroughly reviewed, verified for accuracy, and approved under UNMC Medical and Logistics Protocols.
+[bullet] Any discrepancies or misuse of supplies will be subject to investigation under the Uniform Code of Military Justice (UCMJ).
 
 [bold]Requested By:[/bold]
 [color=#1b67a5][italic]RANKHERE NAMEHERE[/italic][/color]

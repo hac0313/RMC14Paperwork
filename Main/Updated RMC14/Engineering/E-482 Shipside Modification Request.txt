@@ -8,8 +8,8 @@
 [bold]Position: [/bold]ROLEHERE
 
 [bold]Requested modification(s)[/bold]:
-[bullet/]
-[bullet/]
+[bullet]
+[bullet]
 
 [bold]Reason for request:[/bold]
 [italic]Write Here[/italic]

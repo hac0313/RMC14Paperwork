@@ -14,11 +14,11 @@
 [italic][bold][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
 [bold]Objective: [/bold]■YOUR OBJECTIVE HERE
 [bold]Observations:[/bold][italic]
-[bullet/]■What you WITNESSED E.G. how many xenos or were there survivors. Were there barricades etc.
+[bullet]■What you WITNESSED E.G. how many xenos or were there survivors. Were there barricades etc.
 [bold]Analysis:[/bold]
-[bullet/]■Strengths/weakness, Obstacles encountered like acid traps on flanks or unexpecetedly large xeno numbers after initial contact.
+[bullet]■Strengths/weakness, Obstacles encountered like acid traps on flanks or unexpecetedly large xeno numbers after initial contact.
 [bold]Recommendations:[/bold]
-[bullet/]■How you could improve HERE, or what could SL, CIC, Req or whoever have done differently. 
+[bullet]■How you could improve HERE, or what could SL, CIC, Req or whoever have done differently. 
 
 [bold]Signed,[/bold]
 [italic][color=#1b67a5]■RANK NAMEHERE[/italic][/color]

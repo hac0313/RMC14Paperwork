@@ -25,8 +25,8 @@
 [color=#f39f27]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
                                      [head=3]- VERIFICATION -[/head]
 
-[bullet/] This engineering supply request has been thoroughly reviewed, verified for accuracy, and approved under UNMC Engineering and Logistics Protocols.
-[bullet/] Any discrepancies or misuse of supplies will be subject to investigation under the Uniform Code of Military Justice.
+[bullet] This engineering supply request has been thoroughly reviewed, verified for accuracy, and approved under UNMC Engineering and Logistics Protocols.
+[bullet] Any discrepancies or misuse of supplies will be subject to investigation under the Uniform Code of Military Justice.
 
 [bold]Requested By:[/bold]
 [color=#1b67a5][italic]RANKHERE NAMEHERE[/italic][/color]

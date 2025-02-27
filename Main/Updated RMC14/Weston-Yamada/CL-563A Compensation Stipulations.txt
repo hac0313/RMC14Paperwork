@@ -9,9 +9,9 @@
 [bold][head=3]Section I[/head][/bold]
 [italic]Compensation Stipulations[/italic]
 
-[bullet/]Weston-Yamada reserves the right to revoke compensation for any reason at any time. This revocation can be appealed by filling a WY-678 form.
-[bullet/]All compensation is paid in the form of Weston-Yamada company store tokens, to an equivalent value as determined by Weston-Yamada's internal valuation team. Current valuation is ONE (1) dollar(s) for ONE (1) Weston-Yamada Token(s), certified on (date)
-[bullet/]Weston-Yamada tokens may only be utilized for specified 
+[bullet]Weston-Yamada reserves the right to revoke compensation for any reason at any time. This revocation can be appealed by filling a WY-678 form.
+[bullet]All compensation is paid in the form of Weston-Yamada company store tokens, to an equivalent value as determined by Weston-Yamada's internal valuation team. Current valuation is ONE (1) dollar(s) for ONE (1) Weston-Yamada Token(s), certified on (date)
+[bullet]Weston-Yamada tokens may only be utilized for specified 
 Weston-Yamada Co. products, and may not be exchanged in any form for any other currencies.
 Specified items include:
 - [bold]We-Ya Lite Signature[/bold] (3000 Tokens)

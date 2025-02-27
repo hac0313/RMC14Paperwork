@@ -14,8 +14,8 @@
 [bold]Signed,[/bold]
 [color=#AA8760][italic]RANKHERE NAMEHERE[/italic][/color]
 [italic][bold][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
-[color=#AAAAAA][bullet/] [italic]If you disagree with the charges brought forward in relation to the crimes listed for you, you may appeal the decision(s) to the Chief MP, Commander or their designates.
-[bullet/] You must sign and return this form as soon as practicable for the charges that you are appealing. The appeal processor decides the final outcome(s). 
-[bullet/] A charge cannot be removed by appeal if the defendant is found guilty. 
-[bullet/] Appeal outcomes may maintain the current charge, modify the charge to a lower charge, reduce punishment for the charge up to the minimum or outright removal of the charge if found innocent.[/italic][/color]
+[color=#AAAAAA][bullet] [italic]If you disagree with the charges brought forward in relation to the crimes listed for you, you may appeal the decision(s) to the Chief MP, Commander or their designates.
+[bullet] You must sign and return this form as soon as practicable for the charges that you are appealing. The appeal processor decides the final outcome(s). 
+[bullet] A charge cannot be removed by appeal if the defendant is found guilty. 
+[bullet] Appeal outcomes may maintain the current charge, modify the charge to a lower charge, reduce punishment for the charge up to the minimum or outright removal of the charge if found innocent.[/italic][/color]
 

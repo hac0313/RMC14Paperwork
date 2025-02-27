@@ -8,9 +8,9 @@
 
 [head=3] Section 1: Equipment [/head]
 I found the equipment produced by the Weston-Yamada Corporation to be:
-[bullet/] Excellent ( )
-[bullet/] Satisfactory ( )
-[bullet/] Poor ( )
+[bullet] Excellent ( )
+[bullet] Satisfactory ( )
+[bullet] Poor ( )
 
      [italic] Reasoning: [/italic][color=#1b67a5] WRITEHERE.[/color]
 

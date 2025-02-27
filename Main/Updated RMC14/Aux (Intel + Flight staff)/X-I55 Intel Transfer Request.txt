@@ -6,7 +6,7 @@
 I, [bolditalic]RANK NAME, ROLE[/bolditalic] hereby request to be attached to an [color=#287015][bold]Intelligence Officer[/bold][/color] for the duration of my deployment.
 [bold]Current squad:[/bold] WRITE HERE
 [bold]Reason for request:[/bold]
-[bullet/][italic]WRITE HERE[/italic]
+[bullet][italic]WRITE HERE[/italic]
 
 Signed,
     [italic]RANK NAME,[/italic] [bold]ROLEHERE[/bold]

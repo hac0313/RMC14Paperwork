@@ -13,21 +13,21 @@ Marines Onboard: #
 Special Personnel Onboard: # ROLE
 
 Detailed Cargo Onboard: 
-[italic][bullet/]WRITE HERE
-[bullet/]WRITE HERE*
+[italic][bullet]WRITE HERE
+[bullet]WRITE HERE*
 [/italic]
 [bold]Departure to Alamyer:[/bold]
 Marines Onboard: #
 Special Personnel Onboard: # ROLE
 
 Detailed Cargo Onboard: 
-[italic][bullet/]WRITE HERE
-[bullet/]WRITE HERE*
+[italic][bullet]WRITE HERE
+[bullet]WRITE HERE*
 [/italic]
 [bold]Misc. Information:[/bold]
 Total Fire Missions: #
-[bullet/]Anti-Tank Rounds Fired: #
-[bullet/]Multi-Purpose Rounds Fired: #
+[bullet]Anti-Tank Rounds Fired: #
+[bullet]Multi-Purpose Rounds Fired: #
 
 Additional Flight Information:
 [italic]WRITE HERE[/italic]
@@ -37,8 +37,8 @@ Additional Flight Information:
 [italic][bold][color=#f39f27]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
                                 [head=3]- DECLARATION -[/head]
 
-[bullet/]I confirm that both the contents and utilized assets of the ship have been documented and delivered as listed.
-[bullet/]I understand any falsification, discrepancies, unauthorized modifications, or omissions will be investigated under UNMC regulations.
+[bullet]I confirm that both the contents and utilized assets of the ship have been documented and delivered as listed.
+[bullet]I understand any falsification, discrepancies, unauthorized modifications, or omissions will be investigated under UNMC regulations.
 
 [bold]Signed,[/bold]
 [head=3][color=#AA8760][italic]RANK + NAME[/italic][/color][/head]

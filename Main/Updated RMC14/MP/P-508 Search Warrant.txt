@@ -17,7 +17,7 @@
 [bold] Person:[/bold] [✔]
 [italic][bold][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
 [bold]Reason for a Search Warrant:[/bold]
-[bullet/] DESCRIBEHERE
+[bullet] DESCRIBEHERE
 
 [bold]Signed,[/bold]
 [italic]RANKHERE NAMEHERE[/italic]

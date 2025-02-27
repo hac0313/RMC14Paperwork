@@ -11,7 +11,7 @@
                                       [head=2]NAME HERE[/head]
 
 [italic]The Chief of Military Police in consensus with the Commander, as the highest authority on judicial matters currently active aboard the UNS Almayer, has after careful consideration and review of the case, deemed it appropriate to sentence the above named to death on the charge(s) of:
-[bullet/][bold]CHARGESHERE[/bold]
+[bullet][bold]CHARGESHERE[/bold]
 
 A ship-wide announcement will be conducted confirming the intent to execute, the crime(s) charged and the method of execution.[/italic]
 
@@ -23,9 +23,9 @@ A ship-wide announcement will be conducted confirming the intent to execute, the
 [color=#dfc189][italic]Rank NAMEHERE[/italic][/color] 
 [bolditalic]Commander|UNS Almayer[/bolditalic]
 [color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
-[color=#AAAAAA][italic][bullet/]By signing this document you acknowledge that proper execution procedures will be followed as set forth by Marine Law.
-[bullet/]A prisoners last wishes if reasonably acquirable may not be waived. If unattainable they should be provided an alternative.
-[bullet/]The prisoner may request a blindfold if one is available.
-[bullet/]The prisoner may request up to three people to witness the execution.
-[bullet/]The prisoner is to be afforded the chance to give their final words.
+[color=#AAAAAA][italic][bullet]By signing this document you acknowledge that proper execution procedures will be followed as set forth by Marine Law.
+[bullet]A prisoners last wishes if reasonably acquirable may not be waived. If unattainable they should be provided an alternative.
+[bullet]The prisoner may request a blindfold if one is available.
+[bullet]The prisoner may request up to three people to witness the execution.
+[bullet]The prisoner is to be afforded the chance to give their final words.
 [color=#ff0000]Use of this document inconsistent with UCMJ regulations and UNMC Policy MIL-891 is a violation of federal law and will result in prosecution.[/color][/italic]

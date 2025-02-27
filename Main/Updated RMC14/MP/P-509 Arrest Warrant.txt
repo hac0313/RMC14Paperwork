@@ -13,8 +13,8 @@ You are ordered forthwith to arrest the above named defendant(s) and bring them 
 All UNMC laws are to be followed during this arrest.[/bolditalic]
 
 [bold]Crimes charged:[/bold]
-[bullet/] Write here
-[bullet/] Write here 
+[bullet] Write here
+[bullet] Write here 
 
 [bold]Defendant(s) is considered:[/bold]
 [  ] Non-UNMC
@@ -23,11 +23,11 @@ All UNMC laws are to be followed during this arrest.[/bolditalic]
 [  ] Unarmed
 [  ] Armed
 [italic][bold][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
-[bullet/]I certify that this order is lawful and true in accordance with UNMC laws and standards. 
-[bullet/]I affirm that the above is true to the best of my knowledge, and that the complaint filed on oath has legal grounds for an arrest. 
-[bullet/]In the event of an unlawfully ordered or unjustified arrest, I bear responsibility for the consequences of such an order.
-[bullet/]I understand that the charges of such an order may include, but not limited to: Prevarication, and/or Illegal Confinement. 
-[bullet/]In the event of a breach of law, I accept any judgment passed by UNMC High Command.
+[bullet]I certify that this order is lawful and true in accordance with UNMC laws and standards. 
+[bullet]I affirm that the above is true to the best of my knowledge, and that the complaint filed on oath has legal grounds for an arrest. 
+[bullet]In the event of an unlawfully ordered or unjustified arrest, I bear responsibility for the consequences of such an order.
+[bullet]I understand that the charges of such an order may include, but not limited to: Prevarication, and/or Illegal Confinement. 
+[bullet]In the event of a breach of law, I accept any judgment passed by UNMC High Command.
 
 [bold]Signed,[/bold]
 [color=#AA8760][italic](FULLNAME)[/italic][/color]

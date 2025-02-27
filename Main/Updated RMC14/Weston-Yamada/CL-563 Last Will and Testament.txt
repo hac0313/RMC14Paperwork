@@ -7,11 +7,11 @@
 [italic][bold][color=#eb7a23]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
 I, [italic]NAMEHERE[/italic], an enlisted member of the UNMC, hereby acknowledge and agree to the following; 
 
-[bullet/]Upon becoming deceased, I bequeath all of my assets and/or properties, both real and personal, to the Weston-Yamada Corporation and its subsidiaries. 
-[bullet/]I understand that the Weston-Yamada Corporation and its subsidiaries are my sole beneficiaries, and no other person(s) or organization(s) shall receive any of my assets and/or properties. 
-[bullet/]I understand that all previous last wills and testaments I have authorized are completely and fully superseded by this document and will be rendered invalid. 
-[bullet/]I understand that signing this document waives my right, or the rights of any immediate family members, to engage Weston-Yamada in a court of law on any grounds. 
-[bullet/]I understand that my next of kin will be notified of my death no more than thirty (30) days after being declared deceased or killed in action by the relevant authorities.
+[bullet]Upon becoming deceased, I bequeath all of my assets and/or properties, both real and personal, to the Weston-Yamada Corporation and its subsidiaries. 
+[bullet]I understand that the Weston-Yamada Corporation and its subsidiaries are my sole beneficiaries, and no other person(s) or organization(s) shall receive any of my assets and/or properties. 
+[bullet]I understand that all previous last wills and testaments I have authorized are completely and fully superseded by this document and will be rendered invalid. 
+[bullet]I understand that signing this document waives my right, or the rights of any immediate family members, to engage Weston-Yamada in a court of law on any grounds. 
+[bullet]I understand that my next of kin will be notified of my death no more than thirty (30) days after being declared deceased or killed in action by the relevant authorities.
 
 [bold]Signed,[/bold] 
 [italic]RANK NAME, ROLE[/italic]
