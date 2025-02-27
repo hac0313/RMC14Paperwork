@@ -7,10 +7,10 @@
 [color=#134975]_________________________________________________________________[/color]
 [bolditalic]I understand this document must be signed prior to distribution or use of the experimental medicine known as General Cure, and agree to the following;[/bolditalic]
 [italic]
-[bullet/]I understand the United Nations, or any organization within the United Nations, are not responsible for possible long term health risks associated with General Cure
-[bullet/]I certify I will only utilize General Cure when I deem it absolutely necessary to do so
-[bullet/]I understand General Cure has been associated with several severe illnesses, including but not limited to; cancer, cardiac disease, kidney failure, liver failure, and gastrointestinal issues
-[bullet/]I understand that I alone am liable for any possible health issues that may occur to any person(s) I dispense General Cure to
+[bullet]I understand the United Nations, or any organization within the United Nations, are not responsible for possible long term health risks associated with General Cure
+[bullet]I certify I will only utilize General Cure when I deem it absolutely necessary to do so
+[bullet]I understand General Cure has been associated with several severe illnesses, including but not limited to; cancer, cardiac disease, kidney failure, liver failure, and gastrointestinal issues
+[bullet]I understand that I alone am liable for any possible health issues that may occur to any person(s) I dispense General Cure to
 [/italic]
 Signed,
 [italic]RANK NAME[/italic]

@@ -7,7 +7,7 @@
 [bold]I[/bold], [italic]RANK NAME, ROLE[/italic] [bold]hereby request a transfer into Echo Squad for the duration of my deployment.[/bold]
 [bold]Current squad:[/bold] WRITE HERE
 [bold]Reason for request:[/bold]
-[bullet/][italic]WRITE HERE[/italic]
+[bullet][italic]WRITE HERE[/italic]
 
 Signed,
     [italic]RANK NAME,[/italic] [bold]ROLEHERE[/bold]

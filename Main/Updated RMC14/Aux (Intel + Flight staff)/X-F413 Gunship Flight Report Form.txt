@@ -9,15 +9,15 @@
 [bold]Flight No. :[/bold] #
 
 Total Fire Missions: #
-[bullet/]Anti-Tank Rounds Fired: #
-[bullet/]Multi-Purpose Rounds Fired: #
-[bullet/]Total Rounds Fired: #
+[bullet]Anti-Tank Rounds Fired: #
+[bullet]Multi-Purpose Rounds Fired: #
+[bullet]Total Rounds Fired: #
 
 Total Causality Evacuations: #
-[bullet/]Space Sleep Disorder Patients: #
-[bullet/]Stasis Bag Patients: #
-[bullet/]Bodies: #
-[bullet/]Other: #
+[bullet]Space Sleep Disorder Patients: #
+[bullet]Stasis Bag Patients: #
+[bullet]Bodies: #
+[bullet]Other: #
 
 Additional Flight Information:
 [italic]WRITE HERE[/italic]
@@ -25,8 +25,8 @@ Additional Flight Information:
 [italic][bold][color=#f39f27]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
                                   [head=3]- DECLARATION -[/head]
 
-[bullet/]I confirm that both the contents and utilized assets of the ship have been documented as listed. 
-[bullet/]I understand any falsification, discrepancies, unauthorized modifications, or omissions will be investigated under UNMC regulations.  
+[bullet]I confirm that both the contents and utilized assets of the ship have been documented as listed. 
+[bullet]I understand any falsification, discrepancies, unauthorized modifications, or omissions will be investigated under UNMC regulations.  
 
 [bold]Signed,[/bold]
 [head=3][color=#AA8760][italic]RANK + NAME[/italic][/color][/head]

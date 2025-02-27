@@ -12,8 +12,8 @@
 [bold]Position:[/bold] ROLEHERE
 
 [bold]Crimes charged:[/bold]
-[bullet/] Write here
-[bullet/] Write here 
+[bullet] Write here
+[bullet] Write here 
 [bold]Total sentence:[/bold]
 
 [bold]Notable events prior to arrest:[/bold] WRITEHERE

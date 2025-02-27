@@ -47,8 +47,8 @@
 [color=#b18644]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
                                     [head=3]- CERTIFICATION -[/head]
 
-[bullet/] This requisition expenditure report has been reviewed, verified, and approved per UNMC Logistics Protocol.
-[bullet/] Any discrepancies, irregularities, or fund/resource misuse will be subject to formal UCMJ investigation.
+[bullet] This requisition expenditure report has been reviewed, verified, and approved per UNMC Logistics Protocol.
+[bullet] Any discrepancies, irregularities, or fund/resource misuse will be subject to formal UCMJ investigation.
 
 [bold]Prepared By:[/bold]
 [color=#1b67a5][italic]RANKHERE NAMEHERE[/italic][/color]

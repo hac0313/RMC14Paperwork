@@ -9,15 +9,15 @@
 [bold]Position: [/bold]ROLEHERE
 
 [bold]Requested item(s)[/bold]:
-[bullet/]
-[bullet/]
+[bullet]
+[bullet]
 
 [bold]Reason for request:[/bold]
 [italic]Write Here[/italic]
 
 [italic][bold][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
-[italic][bullet/]I understand that all requisitioned equipment is to be used in a responsible and necessary manner. 
-[bullet/]I certify that all requested equipment is essential to  the operation. 
+[italic][bullet]I understand that all requisitioned equipment is to be used in a responsible and necessary manner. 
+[bullet]I certify that all requested equipment is essential to  the operation. 
 [bold]Requested by,[/bold]
 [color=#1b67a5][italic]RANKHERE NAMEHERE[/italic][/color]
 [bolditalic]ROLEHERE[/bolditalic]

@@ -24,28 +24,28 @@
 --------------------------------------------------------------------
 [bold]Estimated Cause of Death:[/bold]
 [bold]Degree of Wounds:[/bold]
-[bullet/]XX [bold][color=#B71C1C]Brute Wounds[/color][/bold]
-[bullet/]XX [bold][color=#FBC02D]Burn Wounds[/color][/bold]
-[bullet/]XX [bold][color=#4CAF50]Toxin Wounds[/color][/bold]
-[bullet/]XX [bold][color=#01579B]Oxygenation Wounds[/color][/bold]
+[bullet]XX [bold][color=#B71C1C]Brute Wounds[/color][/bold]
+[bullet]XX [bold][color=#FBC02D]Burn Wounds[/color][/bold]
+[bullet]XX [bold][color=#4CAF50]Toxin Wounds[/color][/bold]
+[bullet]XX [bold][color=#01579B]Oxygenation Wounds[/color][/bold]
 
 [bold]Description of Wounds:[/bold]
-[bullet/] (  ) Mauling, ___ Degree
-[bullet/] (  ) Lacerations, ___ Degree
-[bullet/] (  ) Contusions, ___ Degree
-[bullet/] (  ) Burns, ___ Degree
-[bullet/] (  ) Lesions, ___ Degree
-[bullet/] (  ) Bruising, ___ Degree
-[bullet/] (  ) Avulsions, ___ Degree
-[bullet/] (  ) Bleeding, ___ Degree
-[bullet/] (  ) Other: ______________________________
+[bullet] (  ) Mauling, ___ Degree
+[bullet] (  ) Lacerations, ___ Degree
+[bullet] (  ) Contusions, ___ Degree
+[bullet] (  ) Burns, ___ Degree
+[bullet] (  ) Lesions, ___ Degree
+[bullet] (  ) Bruising, ___ Degree
+[bullet] (  ) Avulsions, ___ Degree
+[bullet] (  ) Bleeding, ___ Degree
+[bullet] (  ) Other: ______________________________
 [italic]Check all that apply[/italic]
 --------------------------------------------------------------------
 
 [bold]Operating Individual:[/bold] [color=#1b67a5][italic]Rank Name, ROLEHERE[/italic][/color]
 [bold]Overseeing Individual(s):[/bold] [color=#1b67a5][italic]Rank Name, ROLEHERE[/italic][/color] [italic]if applicable[/italic]
 [color=#AAAAAA]===================================================
-[italic][bullet/]I certify that the above information is accurate and complete to the best of my knowledge. 
-[bullet/]This certification is issued in accordance with UNMC regulations and will be used for official purposes, including but not limited to, notification of next of kin and processing of any related benefits. 
-[bullet/]Any falsification or omission of information may result in disciplinary action.[/italic][/color]
+[italic][bullet]I certify that the above information is accurate and complete to the best of my knowledge. 
+[bullet]This certification is issued in accordance with UNMC regulations and will be used for official purposes, including but not limited to, notification of next of kin and processing of any related benefits. 
+[bullet]Any falsification or omission of information may result in disciplinary action.[/italic][/color]
 [italic][color=#E41B1B]Use of this document inconsistent with UCMJ regulations and UNMC policy MIL-891 is a violation of federal law and will result in prosecution.[/color][/italic] 

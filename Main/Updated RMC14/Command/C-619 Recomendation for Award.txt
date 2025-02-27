@@ -9,7 +9,7 @@
 [bold]Name: [/bold][italic]■NAMEHERE[/italic]
 [bold]Rank: [/bold][italic]■RANKHERE[/italic]
 [bold]Reason:[/bold]
-[bullet/]■WRITE THEIR HEROIC DEEDS HERE
+[bullet]■WRITE THEIR HEROIC DEEDS HERE
 [color=#1b67a5]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
 [bold]Award/s for which recommended:[/bold]
 <      > [color=Plum]Bronze Heart Medal[/color]

@@ -16,20 +16,20 @@
 [bold]Time of collection:[/bold] [italic]TIME[/italic]
 [bold]Collected by:[/bold] [color=#75946d][italic]RANK NAME[/italic][/color]
 [bold]Description of item:[/bold]
-    [bullet/] [italic]Describe Here[/italic]
+    [bullet] [italic]Describe Here[/italic]
 
 [bold]Location where collected:[/bold]
-    [bullet/] [italic]Location Here[/italic]
+    [bullet] [italic]Location Here[/italic]
 
 [bold]Additional Comments:[/bold]
-    [bullet/] [italic]Write Here[/italic]
+    [bullet] [italic]Write Here[/italic]
 
 [italic][bold][color=#287015]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
 [bold]Certified by,[/bold]
 [italic]RANK NAME[/italic]
 [bold]ROLE[/bold]
 [color=#AAAAAA]===================================================
-[bullet/][italic]Failure to accurately complete this document may compromise the integrity of collected intelligence, rendering it unreliable for operational use.[/italic]
-[bullet/][italic]Noncompliance with UNMC Intelligence Gathering Policy X-I406 constitutes a violation of military regulations and may result in disciplinary action or prosecution under applicable law.[/italic][/color]
+[bullet][italic]Failure to accurately complete this document may compromise the integrity of collected intelligence, rendering it unreliable for operational use.[/italic]
+[bullet][italic]Noncompliance with UNMC Intelligence Gathering Policy X-I406 constitutes a violation of military regulations and may result in disciplinary action or prosecution under applicable law.[/italic][/color]
 [color=#AAAAAA]===================================================[/color]
 [italic][color=#E41B1B]Use of this document inconsistent with UCMJ regulations and UNMC policy MIL-891 is a violation of federal law and will result in prosecution.[/color][/italic]

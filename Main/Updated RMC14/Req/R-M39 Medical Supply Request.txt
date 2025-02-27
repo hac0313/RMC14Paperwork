@@ -4,15 +4,15 @@
          [head=1][color=#b18644]Medical Supply Request[/color][/head]
 
 [bold]Item(s) Requested:[/bold]
-[bullet/]
-[bullet/]
-[bullet/]
+[bullet]
+[bullet]
+[bullet]
 
 [bold]Reason for request:[/bold]
 [italic]Write Here[/italic]
 [color=#b18644]_________________________________________________________________[/color]
-[italic][bullet/]I certify that all requested equipment is essential to  the operation. 
-[bullet/]I understand that chemicals and other medical supplies are sensitive and should be handled with utmost care.[/italic]
+[italic][bullet]I certify that all requested equipment is essential to  the operation. 
+[bullet]I understand that chemicals and other medical supplies are sensitive and should be handled with utmost care.[/italic]
 
 [bold]Requested by,[/bold]
        [italic]RANK NAME, Quartermaster[/italic]

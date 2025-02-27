@@ -48,9 +48,9 @@ Any discrepancies found have been reported and addressed.[/italic]
 RANK NAMEHERE
 [color=#1b67a5][italic]ROLE HERE[/italic][/color]
 [italic][bold][color=#f39f27]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
-[color=#AAAAAA][italic][bullet/]This Postflight Checklist must be completed and signed following every flight operation. 
-[bullet/]Failure to comply with postflight procedures may result in disciplinary action and grounding of the aircraft.
-[bullet/]Any issues found during the postflight check must be reported to the maintenance crew and resolved before storage clearance is granted.
-[bullet/]This document is to be kept on record for the duration of storage and five years thereafter for audit and review purposes.[/italic][/color]
+[color=#AAAAAA][italic][bullet]This Postflight Checklist must be completed and signed following every flight operation. 
+[bullet]Failure to comply with postflight procedures may result in disciplinary action and grounding of the aircraft.
+[bullet]Any issues found during the postflight check must be reported to the maintenance crew and resolved before storage clearance is granted.
+[bullet]This document is to be kept on record for the duration of storage and five years thereafter for audit and review purposes.[/italic][/color]
 [color=#570202][italic]==================================================[/italic][/color]
 [italic][color=#E41B1B]Use of this document inconsistent with UCMJ regulations and UNMC policy MIL-891 is a violation of federal law and will result in prosecution.[/color][/italic]

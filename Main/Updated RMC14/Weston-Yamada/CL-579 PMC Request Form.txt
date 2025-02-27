@@ -16,10 +16,10 @@
 [bold]Estimated Losses: [/bold] NUMBER
 
 [bolditalic]Urgency [/bolditalic]
-    [bullet/]Minor: [color=red]( )[/color]
-    [bullet/]Medium: [color=red]( )[/color]
-    [bullet/]Major: [color=red]( )[/color]
-    [bullet/]PRIORITY; EMERGENCY: [color=red]( )[/color]
+    [bullet]Minor: [color=red]( )[/color]
+    [bullet]Medium: [color=red]( )[/color]
+    [bullet]Major: [color=red]( )[/color]
+    [bullet]PRIORITY; EMERGENCY: [color=red]( )[/color]
 
 [bold]Additional Resources Requested: [/bold]WRITEHERE
 [color=#eb7a23][italic]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/italic][/color]

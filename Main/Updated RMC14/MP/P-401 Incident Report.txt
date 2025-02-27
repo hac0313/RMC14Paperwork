@@ -21,8 +21,8 @@ DESCRIBE HERE.
                      [italic][color=#ff0000]****MILITARY POLICE USE ONLY****[/color][/italic]
 [bold]Officer Assigned: [/bold][italic]NAMEHERE[/italic]
 [bold]Follow-up Recommendations:[/bold]
-[bullet/]Locate any witnesses and collect statements using P-402.
-[bullet/]
+[bullet]Locate any witnesses and collect statements using P-402.
+[bullet]
 
 [italic][bold][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
 [italic][color=#AAAAAA]This document is to be kept on physical record for a minimum period of five (5) years, and digital record permanently.[/color][/italic]

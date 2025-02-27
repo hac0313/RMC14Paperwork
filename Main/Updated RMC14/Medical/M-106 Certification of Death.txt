@@ -15,14 +15,14 @@
 [bold]Time of Death:[/bold]     [color=#cb0000 ] Write here[/color]
 [bold]Location of Death:[/bold]    [color=#002AAF] Map Name[/color]
 [bold]Circumstances leading to death:[/bold]
-[bullet/][italic][color=#002AAF]Describe Here[/color][/italic]
+[bullet][italic][color=#002AAF]Describe Here[/color][/italic]
 
 [bold]Cadaver disposal-[/bold]
 (  ) [italic]Incinerator[/italic]     (  ) [italic]Cryostasis[/italic]     (✔) [italic]Morgue[/italic]
 
 [bold]Issuing Authority:[/bold] [color=#1b67a5][italic]Rank Name, ROLEHERE[/italic][/color]
 [color=#AAAAAA]===================================================
-[italic][bullet/]I certify that the above information is accurate and complete to the best of my knowledge. 
-[bullet/]This certification is issued in accordance with UNMC regulations and will be used for official purposes, including but not limited to, notification of next of kin and processing of any related benefits. 
-[bullet/]Any falsification or omission of information may result in disciplinary action.[/italic][/color]
+[italic][bullet]I certify that the above information is accurate and complete to the best of my knowledge. 
+[bullet]This certification is issued in accordance with UNMC regulations and will be used for official purposes, including but not limited to, notification of next of kin and processing of any related benefits. 
+[bullet]Any falsification or omission of information may result in disciplinary action.[/italic][/color]
 [italic][color=#E41B1B]Use of this document inconsistent with UCMJ regulations and UNMC policy MIL-891 is a violation of federal law and will result in prosecution.[/color][/italic]

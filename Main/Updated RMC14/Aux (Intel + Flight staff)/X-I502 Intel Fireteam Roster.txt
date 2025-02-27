@@ -5,16 +5,16 @@
 
 [bold][color=#287015]Intel Fireteam(s):[/bold][/color]
     [bold]Team 1:[/bold]
-        [bullet/] [color=#72856d][italic]RANK NAME, ROLE[/italic][/color]
-        [bullet/] [color=#72856d][italic]RANK NAME, ROLE[/italic][/color]
+        [bullet] [color=#72856d][italic]RANK NAME, ROLE[/italic][/color]
+        [bullet] [color=#72856d][italic]RANK NAME, ROLE[/italic][/color]
                                       ---
     [bold]Team 2:[/bold]
-        [bullet/] [color=#72856d][italic]RANK NAME, ROLE[/italic][/color]
-        [bullet/] [color=#72856d][italic]RANK NAME, ROLE[/italic][/color]
+        [bullet] [color=#72856d][italic]RANK NAME, ROLE[/italic][/color]
+        [bullet] [color=#72856d][italic]RANK NAME, ROLE[/italic][/color]
                                       ---
     [bold]Team 3:[/bold]
-        [bullet/] [color=#72856d][italic]RANK NAME, ROLE[/italic][/color]
-        [bullet/] [color=#72856d][italic]RANK NAME, ROLE[/italic][/color]
+        [bullet] [color=#72856d][italic]RANK NAME, ROLE[/italic][/color]
+        [bullet] [color=#72856d][italic]RANK NAME, ROLE[/italic][/color]
                                       ---
 [bold]Total:[/bold] [italic]#[/italic]
 
