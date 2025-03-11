@@ -1,11 +1,8 @@
 [color=#383838]▄[/color][color=#ffffff]░░░[/color][color=#383838]▄[/color]                                                                         [bold]Form:[/bold] [color=#ff0000]CL-602[/color] 
 [color=#eb7a23]█[/color][color=#383838]▀[/color][color=#eb7a23]▄[/color][color=#383838]▀[/color][color=#eb7a23]█[/color]  [head=1]Weston-Yamada[/head]   
-[color=#ffffff]░[/color][color=#eb7a23]█[/color][color=#383838]░[/color][color=#eb7a23]█[/color]     [head=3][italic]Your future in our hands[/italic][/head]
+[color=#ffffff]░[/color][color=#eb7a23]█[/color][color=#383838]░[/color][color=#eb7a23]█[/color]     [head=3]Non-Disclosure Agreement[/head]
 [color=#383838]▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄[/color]
 [color=#eb7a23]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
-
-[head=2]Non-Disclosure Agreement[/head]
-
 This [bold]Non-disclosure Agreement[/bold] is made effective as of March 30th 2124 by and between the Weston-Yamada Corporation and the signatory regarding the property and information related to all operational procedures.
 
 [bold]I. Confidential Information:[/bold] The term 'Confidential Information' means any information which is proprietary to Weston-Yamada, whether or not owned or developed by Weston-Yamada, which is generally known other than by Weston-Yamada, which the signatory may obtain through any direct or indirect contact with Weston-Yamada, regardless of whether specifically identified as confidential or proprietary. Confidential Information shall include any information provided by Weston-Yamada concerning the business, technology, and information of Weston-Yamada and any third party with which Weston-Yamada deals, including, without limitation, business records and plans, trade secrets, technical data, product ideas, contracts, financial information, pricing structure, health discounts, computer programs, listings, and unknown wildlife, and all copyright and intellectual property. The nature of the information and the manner of disclosure are such that a reasonable person would understand it is confidential.
@@ -23,10 +20,8 @@ This [bold]Non-disclosure Agreement[/bold] is made effective as of March 30th 21
 [bold]Signed,[/bold] 
 (RANK) (FULL NAME),(ROLE)
 UNMC 2nd Company [italic]"Falling Falcons"[/italic]
-
 [italic][bold][color=#eb7a23]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
 [bold]Approved by,[/bold]
 [color=#AA8760]NAMEHERE, Corporate Liaison | [italic]UNS Almayer[/italic][/color]
 [color=#eb7a23][bolditalic]Weston-Yamada[/color] Special Services Department[/bolditalic]
-
 [color=#383838]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
