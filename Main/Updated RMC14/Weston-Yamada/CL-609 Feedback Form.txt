@@ -1,35 +1,35 @@
 [color=#383838]▄[/color][color=#ffffff]░░░[/color][color=#383838]▄[/color]                                                                          [bold]Form: [/bold][color=#ff0000]CL-609[/color] 
 [color=#eb7a23]█[/color][color=#383838]▀[/color][color=#eb7a23]▄[/color][color=#383838]▀[/color][color=#eb7a23]█[/color]  [head=1]Weston-Yamada[/head]   
-[color=#ffffff]░[/color][color=#eb7a23]█[/color][color=#383838]░[/color][color=#eb7a23]█[/color]     [head=3][italic]The future is now | Feedback Form[/italic][/head]
+[color=#ffffff]░[/color][color=#eb7a23]█[/color][color=#383838]░[/color][color=#eb7a23]█[/color]     [head=3][italic]The Future Is Now [/italic][/head]
 [color=#383838]▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄[/color]
 [color=#eb7a23]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
-
-[head=3]Form Recipient: [bolditalic][color=#25b266](INSERT NAME HERE)[/color][/bolditalic][/head]
+                          [head=1]Feedback Form[/head]
+Please mark the appropriate boxes with a X.
 
 [head=3] Section 1: Equipment [/head]
 I found the equipment produced by the Weston-Yamada Corporation to be:
-[bullet] Excellent ( )
-[bullet] Satisfactory ( )
-[bullet] Poor ( )
-
+[mono][bullet] Excellent    \[ ] 
+[bullet] Satisfactory \[ ] 
+[bullet] Poor         \[x] 
+[/mono]
      [italic] Reasoning: [/italic][color=#1b67a5] WRITEHERE.[/color]
 
 [italic][bold][color=#eb7a23]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
 [head=3] Section 2: Liaison Performance [/head]
 I found the actions and services of the shipside Corporate Liaison, [bolditalic][color=#25b266](INSERT NAME HERE)[/color][/bolditalic] to be:
-[bullet] Excellent ( )
-[bullet] Satisfactory ( )
-[bullet] Poor ( )
-
+[mono][bullet] Excellent    \[ ] 
+[bullet] Satisfactory \[ ] 
+[bullet] Poor         \[x] 
+[/mono]
      [italic] Reasoning: [/italic][color=#1b67a5] WRITEHERE[/color]
 
 [italic][bold][color=#eb7a23]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
 [head=3] Section 3: Corporate Behavior [/head]
 I found the behavior and conduct of the Weston-Yamada Corporation and its personnel to be:
-[bullet] Excellent: ( )
-[bullet] Satisfactory ( )
-[bullet] Poor ( )
-
+[mono][bullet] Excellent    \[ ] 
+[bullet] Satisfactory \[ ] 
+[bullet] Poor         \[x] 
+[/mono]
      [italic]Reasoning:[/italic][color=#1b67a5] WRITEHERE[/color]
 
 [color=#eb7a23][italic]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/italic][/color]
