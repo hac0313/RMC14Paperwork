@@ -1,0 +1,73 @@
+
+[head=1]  The Jemison Solution Part 2[/head]
+
+[color=#073258]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+                          [head=2]HOW TO MAKE PILLS[/head]
+
+[italic]The following steps will need a pressurized canister. Acquire one by grabbing an empty pressurized canister pouch from the medical equipment rack and ejecting the canister from the pouch.[/italic]
+
+[color=#d02424][head=3]Merabic Pill Bottles[/head][/color]
+[bold]Procedure to make 2:[/bold]
+[bold]1.[/bold] Dispense 80u water and 80u carbon into a pressurized canister, then fill the rest of the canister with bicaridine from the We-Ya-Chem Plus to make a canister of 240u meralyne and 240u bicaridine.
+[bold]2.[/bold] Put the canister inside the ChemMaster and transfer the contents into the buffer.
+[bold]3.[/bold] Insert an empty pill bottle into the ChemMaster.
+[bold]4.[/bold] Change bottle color to red, pill color to red, the name to "MB", set the count to 16, dose to 15.
+[bold]5.[/bold] Click create and eject the bottle, then insert another empty pill bottle and create another.
+
+[color=#ecbc28][head=3]Keloderm Pill Bottles[/head][/color]
+[bold]Procedure to make 2:[/bold]
+[bold]1.[/bold] Dispense 80u phosphorus and 80u oxygen into a pressurized canister, then fill the rest of the canister with kelotane from the We-Ya-Chem Plus to make a canister of 240u dermaline and 240u kelotane.
+[bold]2.[/bold] Put the canister inside the ChemMaster and transfer the contents into the buffer.
+[bold]3.[/bold] Insert an empty pill bottle into the ChemMaster.
+[bold]4.[/bold] Change bottle color to yellow, pill color to yellow, the name to "KD", set the count to 16, dose to 15.
+[bold]5.[/bold] Click create and eject the bottle, then insert another empty pill bottle and create another.
+
+[color=#7c5f69][head=3]Ironutriment+ Pill Bottles[/head][/color]
+[bold]Preparation[/bold]
+[bold]1.[/bold] Unwrench and drag a food vendor from the medical conference room into chemistry (preferably, this step should have been completed at the start of the shift).
+[bold]2.[/bold] Dispense protein bars and prepared meals from the food vendor, insert a large beaker into the All-In-One Grinder, and start grinding food into large beakers of nutriment (preferably, a nurse or extra doctor should be assigned to just grinding nutriment for the first 15 minutes of the shift).
+[bold]3.[/bold] In a large beaker, dispense 40u carbon and 40u iron, then fill the rest of the large beaker with dexalin from the We-Ya-Chem Plus to make a large beaker of dexalin plus.
+
+[italic]Note: The large beakers of nutriment should have their transfer rates set to 100u to make pouring easier, and each one should be filled to the brim to 120u by using one nutriment beaker to completely fill another.[/italic]
+
+[bold]Procedure to make 2:[/bold]
+[bold]1.[/bold] Add 240u nutriment (2 full large beakers) and 240u iron into a pressurized canister.
+[bold]2.[/bold] Put the canister inside the ChemMaster and transfer the contents into the buffer.
+[bold]3.[/bold] Put the dexalin plus beaker into the ChemMaster and transfer 5u into the buffer.
+[bold]4.[/bold] Insert an empty pill bottle into the ChemMaster.
+[bold]5.[/bold] Change bottle color to light purple, pill color to purple, the name to "FN", set the count to 16, dose to 15.
+[bold]6.[/bold] Click create and eject the bottle, then insert another empty pill bottle and create another.
+[bold]7.[/bold] Delete the remainder reagents in the buffer.
+
+[color=#073258]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+                             [head=2]HOW TO MAKE GC[/head]
+
+[head=3]Preparation:[/head]
+[bold]1.[/bold] Eject a bicaridine, kelotane, dylovene, inaprovaline, and dexalin bottle from the We-Ya-Chem Plus.
+[bold]2.[/bold] In a large beaker, dispense 40u carbon and 40u iron, then fill the rest with dexalin and set the beaker's transfer rate to 20u. This will be the "dex+ beaker" used for ADDING 20u dexalin plus to the GC tanks.
+[bold]3.[/bold] Get another large beaker and set the transfer rate to 20u. This will be the "skim beaker" used for REMOVING 20u from the GC tanks.
+[bold]4.[/bold] Get a high-capacity beaker and set the transfer rate to 100u.
+[bold]5.[/bold] Get 3 empty reagent tanks and set them all to draw mode.
+
+[head=3]Procedure for 3 Tanks of GC:[/head]
+[bold]1.[/bold] Add 300u bicaridine to the high-capacity beaker.
+[bold]2.[/bold] Using that beaker, pour 100u bicaridine into each tank.
+[bold]3.[/bold] Repeat steps 1-2. There should now be 200u bicaridine in each tank.
+[bold]4.[/bold] Add 300u kelotane to the high-capacity beaker.
+[bold]5.[/bold] Using that beaker, pour 100u kelotane into each tank.
+[bold]6.[/bold] Repeat steps 4-5.
+[bold]7.[/bold] Dispense 100u carbon and 100u water into the high-capacity beaker, then fill the rest with bicaridine to make 300u meralyne.
+[bold]8.[/bold] Pour 100u meralyne into each tank.
+[bold]9.[/bold] Repeat steps 7-8.
+[bold]10.[/bold] Dispense 100u phosphorus and 100u oxygen into the high-capacity beaker, then fill the rest with kelotane to make 300u dermaline.
+[bold]11.[/bold] Pour 100u dermaline into each tank.
+[bold]12.[/bold] Repeat steps 10-11
+[bold]13.[/bold] Add 300u dylovene to the high-capacity beaker.
+[bold]14.[/bold] Using that beaker, pour 100u dylovene into each tank.
+[bold]15.[/bold] Add 300u inaprovaline to the high-capacity beaker.
+[bold]16.[/bold] Using that beaker, pour 100u inaprovaline into each tank.
+[bold]17.[/bold] Set all 3 tanks to dispense mode and use the “skim beaker” to remove 20u from each tank.
+[bold]18.[/bold] Set all 3 tanks to draw mode and use the “dex+ beaker” to add 20u dexalin plus to each tank.
+[bold]19.[/bold] Label the tank and [bold][color=#ff0000]set all tanks to dispense mode.[/color][/bold]
+
+[italic]Note: After making 3 MORE tanks of GC (6 total), empty the skim beaker by spilling it, and remake the dexalin plus beaker.[/italic]
