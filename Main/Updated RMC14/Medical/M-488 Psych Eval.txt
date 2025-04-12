@@ -24,7 +24,7 @@
 [head=3]Patient has been deemed [color=red]INSANE[/color] | [color=green]SANE[/color][/head]
 [italic]If a patient has been deemed unfit for duty, file a M-489 Declaration of Insanity[/italic]
 [color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
-[italic][color=Gray]I, the Chief Medical Officer of the UNS Alamyer, certify the contents of this document are factual to the extent of my knowledge. I acknowledge that wrongfully deeming personnel is a violation of Marine Law, and will be prosecuted as neglect of duty[/color][/italic]
+[italic][color=Gray]I, the Chief Medical Officer of the UNS Almayer, certify the contents of this document are factual to the extent of my knowledge. I acknowledge that wrongfully deeming personnel is a violation of Marine Law, and will be prosecuted as neglect of duty[/color][/italic]
 
 Signed,
 [italic][color=#1b67a5]RANK NAME[/color],[/italic]
