@@ -1,0 +1,57 @@
+[head=1]  The Jemison Solution Part 1[/head]
+
+[color=#073258]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+                          [head=2]COMMON REAGENTS[/head]
+
+[head=3][color=#ff0000]Bottles of bicaridine, kelotane, dylovene, dexalin, and inaprovaline can be acquired and refilled for free from the We-Ya-Chem Plus.[/color][/head]
+
+[italic]The following reagent descriptions can also be used as labels for their respective containers.[/italic]
+
+[color=#cb0000][head=3]For healing brute damage:[/head][/color]
+Bicaridine (-25 Brute per 5u | 30u OD)
+Meralyne (-37.5 Brute per 5u | 15u OD)
+
+[color=#e0841b][head=3]For healing burn damage:[/head][/color]
+Kelotane (-25 Burn per 5u | 30u OD)
+Dermaline (-37.5 Burn per 5u | 15u OD)
+
+[color=#0a7a28][head=3]For healing toxin damage:[/head][/color]
+Dylovene (-50 Toxin per 5u | 30u OD)
+Arithrazine (-83 Toxin per 5u | 7.5u OD)
+
+[italic]Note: Arithrazine causes 20 brute damage per 5u, and metabolizes at 0.03u/s instead of 0.1u/s unlike all other reagents on this list.[/italic]
+
+[color=#3b5dcc][head=3]For healing oxygen damage:[/head][/color]
+Dexalin (-50 Oxygen per 5u | 30u OD)
+Dexalin Plus (-ALL Oxygen per 0.1u | 15u OD)
+
+[color=#7909ad][head=3]For healing bloodloss:[/head][/color]
+Nutriment (4.5% blood per 5u | No OD)
+Iron (13.4% blood per 5u | 30u OD)
+
+[italic]Note: Aside from being nutritious, nutriment also heals 12.5 brute damage per 5u.[/italic]
+
+[color=#171717][head=3]Other reagents:[/head][/color]
+Epinephrine (-20 Brute/Burn/Tox on dfb | 10.5u OD)
+Imidazoline (Heals eye damage | 30u OD)
+Tricordrazine (Heals Brute/Burn/Tox/Oxy | 30u OD)
+
+[italic]Note: Tricordrazine heals 12.5 brute, 12.5 burn, 25 toxin and 25 oxygen damage per 5u.[/italic]
+
+[color=#171717][head=3]Mixes:[/head][/color]
+Merabic (-31.25 Brute per 5u | 30u OD)
+Keloderm (-31.25 Burn per 5u | 30u OD)
+Ironutriment (8.9% blood per 5u | 60u OD)
+GC™ (-15 brute/burn & -all oxygen per 5u | 75u OD)
+
+[color=#073258]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+                          [head=2]SHIFT START DUTIES[/head]
+
+[bold]1.[/bold] Go to the medical conference room (the room below where medical staff wake up), grab the wrench on the table, unwrench a food vendor on the right side of the room, and drag it to chemistry.
+[bold]2.[/bold] Make a reagent tank of Meralyne for corpsmen (using a high-capacity beaker set to 100u transfer rate, add 300 carbon, 300 water, and 300 bicaridine into an empty reagent tank. Label the tank and [bold][color=#ff0000]set it to dispense mode when finished[/color][/bold]).
+[bold]3.[/bold] Make a reagent tank of Dermaline for corpsmen (using a high-capacity beaker set to 100u transfer rate, add 300 phosphorus, 300 oxygen, and 300 kelotane into an empty reagent tank. Label the tank and [bold][color=#ff0000]set it to dispense mode when finished[/color][/bold]).
+[bold]4.[/bold] Dispense protein bars and prepared meals from the food vendor, insert a large beaker into the All-In-One Grinder, and start grinding protein bars into nutriment for making FN pills (15 bars = 120u nutriment or 1 large beaker of nutriment).
+[bold]5.[/bold] Using the top chemical dispenser and ChemMaster, Make MB, KD, and FN pills for corpsmen (guide attached separately).
+[bold]6.[/bold] Using the bottom chemical dispenser, make GC 3 tanks at a time (guide attached separately).
+
+[italic]Note: For maximum efficiency, there should be exactly 3 medical staff inside chemistry working on steps 4-6. A doctor should be making pills while another doctor makes GC, and an extra nurse or doctor should be grinding nutriment for FN pills.[/italic]

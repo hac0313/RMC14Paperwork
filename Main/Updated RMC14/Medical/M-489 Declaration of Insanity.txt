@@ -15,7 +15,7 @@
 [bolditalic]This document certifies the named patient has been declared [color=#E41B1B]unfit for duty[/color] due to insanity. Appropriate action should be taken based on the state of the patient.[/bolditalic]
 
 [color=#58B38B]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
-[italic][color=Gray]I, the Chief Medical Officer of the UNS Alamyer, certify the contents of this document are factual to the extent of my knowledge. 
+[italic][color=Gray]I, the Chief Medical Officer of the UNS Almayer, certify the contents of this document are factual to the extent of my knowledge. 
 I acknowledge that wrongfully deeming personnel unfit for duty is a violation of Marine Law, and will be prosecuted as neglect of duty.[/color][/italic]
 
 Signed,

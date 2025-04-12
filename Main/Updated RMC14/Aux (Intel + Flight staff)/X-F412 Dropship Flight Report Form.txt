@@ -8,7 +8,7 @@
 
 [bold]Flight No. :[/bold] #
 
-[bold]Departure from Alamyer:[/bold] 
+[bold]Departure from Almayer:[/bold] 
 Marines Onboard: #
 Special Personnel Onboard: # ROLE
 
@@ -16,7 +16,7 @@ Detailed Cargo Onboard:
 [italic][bullet]WRITE HERE
 [bullet]WRITE HERE*
 [/italic]
-[bold]Departure to Alamyer:[/bold]
+[bold]Departure to Almayer:[/bold]
 Marines Onboard: #
 Special Personnel Onboard: # ROLE
 
