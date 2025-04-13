@@ -1,0 +1,54 @@
+[color=MidnightBlue]▒█▀▀▀█ ▒█▀▀█ ▒█▀▀█ ░█▀▀█ ▒█▀▀█ █ 
+░▀▀▀▄▄ ▒█░░░ ▒█▄▄▀ ▒█▄▄█ ▒█▄▄█ ▀  ~ It's Easy...
+▒█▄▄▄█ ▒█▄▄█ ▒█░▒█ ▒█░▒█ ▒█░░░ ▄[/color]
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+
+[head=2]The Practical Guide to [color=DarkRed]Deconstruction[/color][/head]
+[italic][color=SaddleBrown]Compiled by a Frustrated Cargo Technician (Numinor Serpesta)[/color][/italic]
+
+[head=3][color=MidnightBlue][bullet/]Foreword: Why This Guide Exists[/color][/head]
+[italic]It is no secret that the [bolditalic]Requisitions budget is stretched thin[/bolditalic], and frankly, I refuse to [bolditalic][color=DarkRed]spend an absurd two thousand credits on a stack of metal[/color][/bolditalic] that could just as easily be [bold][color=DarkBlue]salvaged [/color][/bold]from existing structures. [color=DarkRed][bold]Metal is everywhere[/bold][/color] you just need to know how to reclaim it properly. Instead of funneling our hard-earned budget into overpriced shipments, we will take matters into our own hands through [bold]strategic deconstruction (decon).[/bold]
+
+This guide serves as a reference for [bolditalic]efficiently breaking down common structures to recover valuable materials[/bolditalic]. Whether you are an Engineer, or simply someone who appreciates [bolditalic]resourcefulness[/bolditalic], follow these instructions and 
+
+[head=3][color=DarkRed]save Requisitions from financial ruin...[/color][/head][/italic]
+
+[head=2][color=MidnightBlue]Deconstruction Procedures[/color][/head]
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+
+[head=3][bullet/][color=MidnightBlue]Table Deconstruction[/color][/head]
+1.Use a [bold][color=DarkRed]wrench [/color][/bold]on the table to unfasten it.
+2.Use a [bold][color=DarkRed]wrench [/color][/bold]again on the table parts to fully dismantle them.
+
+[head=3][bullet/][color=MidnightBlue]Rack Deconstruction[/color][/head]
+1.Use a [bold][color=DarkRed]wrench [/color][/bold]and ensure it is held in your active hand.
+2.Use a [bold][color=DarkRed]wrench [/color][/bold]again on the table parts to fully dismantle them.
+
+[head=3][bullet/][color=MidnightBlue]Handrail Deconstruction[/color][/head]
+1.Use a [bold][color=DarkRed]wrench [/color][/bold]to unfasten the handrail.
+2.Follow up with a [bold][color=DarkRed]screwdriver[/color][/bold] to fully deconstruct it into metal.
+
+[head=3][bullet/][color=MidnightBlue]Sandbag Deconstruction[/color][/head]
+1.Hold an [bold][color=DarkRed]entrenching tool.[/color][/bold]
+2.Use it on the sandbag wall to break it down.
+
+[head=3][bullet/][color=MidnightBlue]Window (and Frame) Deconstruction[/color][/head]
+[bullet/]If you want to keep the window [color=MidnightBlue]intact for relocation[/color]:
+1.Use a [bold][color=DarkRed]screwdriver[/color][/bold] to remove the paneling.
+2.Use a crowbar to detach the glass.
+3.Use a [bold][color=DarkRed]wrench [/color][/bold]on the window frame to remove it.
+
+[bullet/]If you want to [color=FireBrick]destroy the window[/color] for materials:
+1.Bash the reinforced glass window using any object
+2.Use a [bold][color=DarkRed]wrench [/color][/bold]on the window frame to remove it.
+
+[head=3][bullet/][color=MidnightBlue]Chair Deconstruction[/color][/head]
+1.Use a [bold][color=DarkRed]screwdriver[/color][/bold] on the chair.
+
+[head=3][bullet/][color=MidnightBlue]Cade Deconstruction[/color][/head]
+[bold][color=DarkRed]Wirecutters[/color] [/bold]can be used to remove the [color=DarkRed]Barbed Wire[/color].
+
+1.Use the [bold][color=DarkRed]screwdriver[/color][/bold] on the Barricade.
+2.Use the [bold][color=DarkRed]wrench [/color][/bold]on the Barricade.
+([italic]just make sure it's unanchored[/italic]).
+3.Use the [bold][color=DarkRed]crowbar [/color][/bold]on the Barricade.
