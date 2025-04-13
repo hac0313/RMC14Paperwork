@@ -7,9 +7,6 @@ Huge thanks and credit to the below google drive for inspiring this project and 
 THIS DRIVE IS NO LONGER MAINTAINED, AND WAS NOT CREATED BY PAPERCORD. USE THE GITHUB FOR UPDATED FORMS.
 https://drive.google.com/drive/folders/1S2zLdcXaKvhjdyaVNvTyXphUVpIP355h
 
-Join our discord to contribute, discuss, and enjoy paperwork!
-https://discord.gg/ju9UZnHdpc
-
 Other contributers include:
 
 crazy1112345/John Slopper (creator of the Papercord)
