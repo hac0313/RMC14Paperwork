@@ -17,7 +17,7 @@ Dermaline (-37.5 Burn per 5u | 15u OD)
 
 [color=#0a7a28][head=3]For healing toxin damage:[/head][/color]
 Dylovene (-50 Toxin per 5u | 30u OD)
-Arithrazine (-83 Toxin per 5u | 7.5u OD)
+Arithrazine (-83 Toxin per 5u | 15u OD)
 
 [italic]Note: Arithrazine causes 20 brute damage per 5u, and metabolizes at 0.03u/s instead of 0.1u/s unlike all other reagents on this list.[/italic]
 
