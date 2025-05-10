@@ -4,7 +4,8 @@
 [color=#383838]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
         [head=1]Provost Correspondence[/head]
 
-[bold]To:[/bold] [color=#cb0000][bold]Provost[/bold][/color] Sector Marshal
+[bold]To:[/bold] [bold][color=#cb0000]The Provost Marshal Office[/color][/bold]
+[bold]From:[/bold] RANK NAMEHERE | [color=#cb0000]UNS [italic]Almayer[/italic][/color]
 [bold]Subject:[/bold] [italic]WRITE HERE[/italic]
 [color=#134975][bold]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold]
 [italic]WRITE REPORT HERE[/italic]
