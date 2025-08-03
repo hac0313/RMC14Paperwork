@@ -1,4 +1,0 @@
-[head=2][color=orchid]Orbital Firing Warning[/color][/head]
-Stand clear of the blastzone, landing approximate cords of X, Y relayed by SQUAD.
-
-[bold]PREPARE TO USE THIS TO YOUR ADVANTAGE[/bold]
