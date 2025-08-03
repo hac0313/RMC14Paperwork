@@ -1,0 +1,23 @@
+[bold]Организация[/bold] [bolditalic][color=#134975] ООО.[/bolditalic][/color] [bold]"Свободная Пресса"[/bold]
+
+[color=#FFFFFF]░░░░░░░░░░░░░░[/color]▒[color=#134975]█[/color]░▒[color=#134975]█[/color] ▒[color=#134975]█[/color][color=#134975]▄[/color]░▒[color=#134975]█[/color] 
+[color=#FFFFFF]░░░░░░░░░░░░░░[/color]▒[color=#134975]█[/color]░▒[color=#134975]█[/color] ▒[color=#134975]█[/color]▒[color=#134975]█[/color]▒[color=#134975]█[/color]
+[color=#FFFFFF]░░░░░░░░░░░░░░[/color]░[color=#134975]▀[/color][color=#134975]▄[/color][color=#134975]▄[/color][color=#134975]▀[/color] ▒[color=#134975]█[/color]░░[color=#134975]▀[/color][color=#134975]█[/color]
+
+[color=#FFFFFF]░░░░░░░░░░░░░[/color][bolditalic]"Свобода Прессы!"[/bolditalic]
+[color=#383838]▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄[/color]
+[color=#134975]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+
+[head][bold]От:[/head] [italic]Главного Редактора Свободной Прессы.[/bold]
+[/italic]
+[head=5]Кому:[/head][bolditalic] Офис Репортёра[/bold] [bold]|[/bold] [bolditalic]ВКСШ[/bolditalic] [bolditalic]Алмаер[/boltitalic]
+Код авторизации:[color=#134975] 1 ABC-123-123-D [/color]
+
+[italic][bold][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
+[bolditalic]Доброе утро,[/bolditalic]
+[italic]Напишите ответ тут [/italic]
+
+[bold]Подпись,[/bold]
+[color=#1b67a5][italic]ИмяЗдесь[/italic][/color] 
+[bolditalic]Главный Редактор[/bolditalic]|[bold]UN[/bold] [bolditalic]Реле Свободной Прессы[/bolditalic]
+[italic][bold][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
